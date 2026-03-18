@@ -325,7 +325,7 @@ def chat():
         headers = {'x-api-key': os.getenv("SCALEDOWN_API_KEY"), 'Content-Type': 'application/json'}
         compressed_response = requests.post(
             url, headers=headers,
-            json={"context": combined_context, "prompt": user_msg, "model": "gemini-2.5-flash", "scaledown": {"rate": "auto"}}
+            json={"context": combined_context, "prompt": user_msg, "model": "gpt-4o", "scaledown": {"rate": "auto"}}
         )
         compressed_response.raise_for_status()
         
