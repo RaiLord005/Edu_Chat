@@ -1,0 +1,755 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDU_CHAT - Your Study Assistant</title>
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    
+    <!-- early auth check to prevent flash of chat page for unauthenticated users -->
+    <script>
+        (function() {
+            try {
+                var userId = sessionStorage.getItem('userId');
+                if (!userId) {
+                    window.location.replace('/login');
+                }
+            } catch (e) {
+                // if sessionStorage not available, redirect anyway
+                window.location.replace('/login');
+            }
+        })();
+    </script>
+</head>
+<body>
+
+    <div id="welcomeScreen" class="welcome-screen">
+        <div class="welcome-content">
+            <div class="welcome-logo"><i class="fas fa-book-open"></i></div>
+            <h1 class="welcome-title">EDU_CHAT</h1>
+            <p class="welcome-subtitle">Your AI-Powered Study Assistant</p>
+            <p class="hack-attack-text">A_____/HACK-ATTACK____/PROJECT</p>
+        </div>
+    </div>
+
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo-icon"><i class="fas fa-book-open"></i></div>
+                <h1>EDU_CHAT</h1>
+                <button id="themeToggleBtn" class="btn-theme-toggle" onclick="toggleTheme()" title="Toggle theme">
+                    <i id="themeToggleIcon" class="fas fa-moon"></i>
+                </button>
+            </div>
+            
+            <div class="sidebar-action">
+                <button onclick="startNewChat()" class="btn-new-chat">
+                    <i class="fas fa-plus icon-indigo"></i> 
+                    <span>New Conversation</span>
+                </button>
+            </div>
+
+            <div class="sidebar-history">
+                <p class="history-title">Recent Topics</p>
+                <ul class="history-list">
+                    <li><i class="far fa-message"></i> Biology Chapter 1</li>
+                    <li><i class="far fa-message"></i> Physics - Kinematics</li>
+                </ul>
+            </div>
+
+            <div class="sidebar-footer">
+                <div class="user-info" id="userInfo">
+                    <div class="user-detail">
+                        <p class="user-label">Logged in as</p>
+                        <p class="username" id="usernameDisplay"></p>
+                    </div>
+                </div>
+                <button onclick="logout()" class="btn-logout">
+                    <i class="fas fa-sign-out-alt"></i> Logout
+                </button>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            
+            <header class="top-bar">
+                <div class="dropdown-group">
+                    <div class="dropdown-container">
+                        <label>Select Class</label>
+                        <select id="classSelect" onchange="loadSubjects()">
+                            <option value="">-- Choose Class --</option>
+                        </select>
+                    </div>
+
+                    <div class="dropdown-container">
+                        <label>Select Subject</label>
+                        <select id="subjectSelect" disabled>
+                            <option value="">-- Choose Subject --</option>
+                        </select>
+                    </div>
+                </div>
+            </header>
+
+            <div id="chatBox" class="chat-box">
+                <div class="message-wrapper">
+                    <div class="avatar bot-avatar"><i class="fas fa-robot"></i></div>
+                    <div class="message bot-message">
+                        <p class="message-title">Welcome to EDU_CHAT!</p>
+                        <p>Please select your class and subject from the dropdowns above. Once selected, you can ask me anything about the textbook content.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-area">
+                <div class="input-container">
+                    <div class="upload-wrapper">
+                        <button id="uploadBtn" class="btn-upload" onclick="toggleUploadMenu()" title="Upload or Capture">
+                            <span class="plus">+</span>
+                        </button>
+
+                        <button id="uploadStatus" class="upload-status" onclick="toggleUploadStatus()" title="Toggle uploaded content" style="display: none;">
+                            <i id="uploadStatusIcon" class="fas fa-check"></i>
+                        </button>
+
+                        <div id="uploadMenu" class="upload-menu hidden">
+                            <button type="button" class="upload-option" onclick="triggerFileSelect()">Add file</button>
+                            <button type="button" class="upload-option" onclick="triggerCamera()">Take photo</button>
+                        </div>
+
+                        <input type="file" id="fileInput" accept=".pdf,.png,.jpg,.jpeg,.bmp,.tiff" style="display:none" />
+                        <input type="file" id="cameraInput" accept="image/*" capture="environment" style="display:none" />
+                    </div>
+
+                    <textarea id="userInput" rows="1" placeholder="Ask a question about your book..." onkeydown="handleEnter(event)"></textarea>
+                    
+                    <div class="mic-lang-wrapper">
+                        <span id="micLangDisplay" class="mic-lang-display">English</span>
+                        <select id="micLangSelect" class="mic-lang-select" title="Voice Language">
+                            <option value="en-US">English</option>
+                            <option value="bn-IN">Bengali</option>
+                            <option value="hi-IN">Hindi</option>
+                        </select>
+                    </div>
+
+                    <button id="micBtn" onclick="toggleMic()" class="btn-mic" title="Click to speak">
+                        <i class="fas fa-microphone"></i>
+                    </button>
+
+                    <button onclick="sendMessage()" class="btn-send">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+                <p class="disclaimer">AI can make mistakes. Consider verifying important information.</p>
+            </div>
+        </main>
+    </div>
+
+    <script>
+    let currentSessionId = null;
+
+    // --- AUTH CHECK & INITIALIZATION ---
+    window.addEventListener('load', async function() {
+        initTheme();
+
+        const userId = sessionStorage.getItem('userId');
+        const username = sessionStorage.getItem('username');
+        
+        if (!userId || !username) {
+            // Redirect to login if not authenticated
+            window.location.href = '/login';
+            return;
+        }
+        
+        // Display username
+        document.getElementById('usernameDisplay').textContent = username;
+        
+        // Initialize the app
+        await loadClasses();
+        await loadSidebarSessions();
+    });
+
+    function getAuthHeaders() {
+        const userId = sessionStorage.getItem('userId');
+        return {
+            'Content-Type': 'application/json',
+            'X-User-ID': userId
+        };
+    }
+
+    function initTheme() {
+        const theme = localStorage.getItem('theme') || 'dark';
+        const body = document.body;
+        const icon = document.getElementById('themeToggleIcon');
+        if (theme === 'light') {
+            body.classList.add('light-theme');
+            if (icon) icon.className = 'fas fa-sun';
+        } else {
+            body.classList.remove('light-theme');
+            if (icon) icon.className = 'fas fa-moon';
+        }
+    }
+
+    function toggleTheme() {
+        const body = document.body;
+        const icon = document.getElementById('themeToggleIcon');
+        const isLight = body.classList.toggle('light-theme');
+        localStorage.setItem('theme', isLight ? 'light' : 'dark');
+
+        if (icon) {
+            icon.className = isLight ? 'fas fa-sun' : 'fas fa-moon';
+        }
+    }
+
+    // Uploaded file context (optional)
+    let uploadedText = null;
+    let uploadedFilename = null;
+    let uploadedCachedPath = null;
+    let uploadedFileActive = false;
+
+    function toggleUploadMenu() {
+        const menu = document.getElementById('uploadMenu');
+        menu.classList.toggle('hidden');
+    }
+
+    function triggerFileSelect() {
+        document.getElementById('fileInput').click();
+    }
+
+    function triggerCamera() {
+        document.getElementById('cameraInput').click();
+    }
+
+    function toggleUploadStatus() {
+        uploadedFileActive = !uploadedFileActive;
+        const statusBtn = document.getElementById('uploadStatus');
+        const icon = document.getElementById('uploadStatusIcon');
+        
+        if (uploadedFileActive) {
+            // Active - green tick
+            statusBtn.classList.remove('inactive');
+            icon.className = 'fas fa-check';
+            appendMessage('bot', `Now using uploaded file: **${uploadedFilename}**`);
+        } else {
+            // Inactive - red cross
+            statusBtn.classList.add('inactive');
+            icon.className = 'fas fa-times';
+            appendMessage('bot', `Switched back to textbook content.`);
+        }
+    }
+
+    async function handleFileSelect(event) {
+        const file = event.target.files[0];
+        if (!file) return;
+
+        // Close the menu once a file is chosen
+        document.getElementById('uploadMenu').classList.add('hidden');
+
+        const formData = new FormData();
+        formData.append('file', file);
+
+        const chatBox = document.getElementById('chatBox');
+        const loadingId = "loading-upload-" + Date.now();
+        const loadingHtml = `
+            <div id="${loadingId}" class="message-wrapper animate-fade-in">
+                <div class="avatar bot-avatar"><i class="fas fa-robot"></i></div>
+                <div class="message bot-message typing-indicator">
+                    <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+                </div>
+            </div>
+        `;
+        chatBox.insertAdjacentHTML('beforeend', loadingHtml);
+        chatBox.scrollTo({ top: chatBox.scrollHeight, behavior: 'smooth' });
+
+        try {
+            const response = await fetch('/api/upload', {
+                method: 'POST',
+                headers: { 'X-User-ID': sessionStorage.getItem('userId') },
+                body: formData
+            });
+
+            const data = await response.json();
+            document.getElementById(loadingId).remove();
+
+            if (!response.ok) {
+                appendMessage('bot', data.error || 'Unable to process the uploaded file.');
+                return;
+            }
+
+            uploadedText = data.text;
+            uploadedFilename = data.filename;
+            uploadedCachedPath = data.cached_path;
+            uploadedFileActive = true;
+
+            // Show the status button
+            const statusBtn = document.getElementById('uploadStatus');
+            statusBtn.style.display = 'flex';
+            statusBtn.classList.remove('inactive');
+
+            appendMessage('bot', `Uploaded and processed file: **${uploadedFilename}**. I will now use this content for your questions.`);
+        } catch (err) {
+            document.getElementById(loadingId).remove();
+            appendMessage('bot', 'Failed to process the file. Please try again.');
+        } finally {
+            // Reset the file input so the same file can be re-selected if needed
+            event.target.value = null;
+        }
+    }
+
+    async function cleanupUploadedFile() {
+        if (!uploadedCachedPath) return;
+
+        try {
+            await fetch('/api/cleanup-upload', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'X-User-ID': sessionStorage.getItem('userId')
+                },
+                body: JSON.stringify({ cached_path: uploadedCachedPath })
+            });
+        } catch (err) {
+            console.error('Cleanup error:', err);
+        }
+    }
+
+    // Hide upload menu when clicking outside
+    document.addEventListener('click', function (event) {
+        const menu = document.getElementById('uploadMenu');
+        const button = document.getElementById('uploadBtn');
+        if (menu && !menu.classList.contains('hidden') && !menu.contains(event.target) && !button.contains(event.target)) {
+            menu.classList.add('hidden');
+        }
+    });
+
+    // Attach file input events
+    document.getElementById('fileInput').addEventListener('change', handleFileSelect);
+    document.getElementById('cameraInput').addEventListener('change', handleFileSelect);
+
+    function logout() {
+        if (confirm('Are you sure you want to logout?')) {
+            // Clean up uploaded file before logout
+            cleanupUploadedFile();
+            
+            sessionStorage.removeItem('userId');
+            sessionStorage.removeItem('username');
+            sessionStorage.clear();
+            window.location.href = '/login';
+        }
+    }
+
+    // Initialize the app
+    window.onload = async function() {
+        // Prevent body scroll and scrollbar shift while welcome screen is visible
+        document.body.style.overflow = 'hidden';
+        
+        // Apply blur to app container while welcome screen is visible
+        const appContainer = document.querySelector('.app-container');
+        appContainer.classList.add('blur-bg');
+        
+        // Automatically fade out the welcome screen after 2.5 seconds
+        setTimeout(() => {
+            const welcomeScreen = document.getElementById('welcomeScreen');
+            if (welcomeScreen) {
+                // Trigger the CSS fade out
+                welcomeScreen.classList.add('hidden');
+                
+                // Remove blur and hide welcome screen after animation
+                setTimeout(() => {
+                    welcomeScreen.style.display = 'none';
+                    appContainer.classList.remove('blur-bg');
+                    document.body.style.overflow = 'auto'; // Restore scroll
+                }, 500); // Wait 0.5s for the fade animation to finish
+            }
+        }, 2500); // <-- Change this number (2500ms = 2.5 seconds) to make it stay longer or shorter
+    };
+
+    async function loadClasses() {
+        try {
+            const response = await fetch('/api/classes');
+            const classes = await response.json();
+            const classSelect = document.getElementById('classSelect');
+            classes.forEach(c => {
+                const option = document.createElement('option');
+                option.value = c;
+                option.textContent = "Class " + c;
+                classSelect.appendChild(option);
+            });
+        } catch (err) { console.error("Failed to load classes:", err); }
+    }
+
+    async function loadSubjects() {
+        const classId = document.getElementById('classSelect').value;
+        const subjectSelect = document.getElementById('subjectSelect');
+        subjectSelect.innerHTML = '<option value="">-- Choose Subject --</option>';
+        
+        if (!classId) {
+            subjectSelect.disabled = true;
+            return;
+        }
+
+        try {
+            const response = await fetch(`/api/subjects/${classId}`);
+            const subjects = await response.json();
+            subjects.forEach(s => {
+                const option = document.createElement('option');
+                option.value = s;
+                option.textContent = s.charAt(0).toUpperCase() + s.slice(1).replace('-', ' '); 
+                subjectSelect.appendChild(option);
+            });
+            subjectSelect.disabled = false;
+        } catch (err) { console.error("Failed to load subjects:", err); }
+    }
+
+    // --- NEW: Load the Sidebar ---
+    // --- UPDATED: Load the Sidebar ---
+    async function loadSidebarSessions() {
+        try {
+            const response = await fetch('/api/sessions', {
+                headers: getAuthHeaders()
+            });
+            const sessions = await response.json();
+            
+            const historyList = document.querySelector('.history-list');
+            historyList.innerHTML = ''; 
+            
+            sessions.forEach(session => {
+                const li = document.createElement('li');
+                
+                // Highlight active session visually
+                if (session.id === currentSessionId) {
+                    li.classList.add('active-session');
+                }
+
+                // Add the title and the delete button
+                li.innerHTML = `
+                    <div class="session-title" onclick="loadExistingChat(${session.id})">
+                        <i class="far fa-message"></i> 
+                        <span style="text-overflow: ellipsis; overflow: hidden;">${session.title}</span>
+                    </div>
+                    <button class="btn-delete-chat" onclick="deleteChat(${session.id}, event)" title="Delete Chat">
+                        <i class="fas fa-trash-alt"></i>
+                    </button>
+                `;
+                
+                historyList.appendChild(li);
+            });
+        } catch (err) { 
+            console.error("Failed to load sessions:", err);
+            if (err.status === 401) {
+                window.location.href = '/login';
+            }
+        }
+    }
+
+    // --- NEW: Delete Chat Function ---
+    async function deleteChat(sessionId, event) {
+        // Prevent the click from also opening the chat
+        event.stopPropagation(); 
+        
+        if (!confirm("Are you sure you want to delete this chat history?")) return;
+
+        try {
+            const response = await fetch(`/api/sessions/${sessionId}`, {
+                method: 'DELETE',
+                headers: getAuthHeaders()
+            });
+            
+            if (response.ok) {
+                // If they deleted the chat they are currently looking at, clear the screen
+                if (currentSessionId === sessionId) {
+                    startNewChat();
+                } else {
+                    // Otherwise, just refresh the sidebar silently
+                    loadSidebarSessions();
+                }
+            } else {
+                alert("Failed to delete the chat.");
+            }
+        } catch (err) {
+            console.error("Error deleting chat:", err);
+            alert("An error occurred while deleting the chat.");
+        }
+    }
+
+    // --- NEW: Load an existing chat into the window ---
+    async function loadExistingChat(sessionId) {
+        currentSessionId = sessionId;
+        
+        // Show loading state
+        const chatBox = document.getElementById('chatBox');
+        chatBox.innerHTML = '<div class="disclaimer mt-4">Loading conversation history...</div>';
+        
+        try {
+            const response = await fetch(`/api/sessions/${sessionId}`, {
+                headers: getAuthHeaders()
+            });
+            const data = await response.json();
+            
+            if (!response.ok) {
+                chatBox.innerHTML = '<div class="disclaimer mt-4">Could not load this chat.</div>';
+                return;
+            }
+            
+            // Set the dropdowns to match the loaded session
+            document.getElementById('classSelect').value = data.class_level;
+            await loadSubjects(); // populate the subjects list
+            document.getElementById('subjectSelect').value = data.subject;
+            
+            // Render messages
+            chatBox.innerHTML = '';
+            data.messages.forEach(msg => {
+                appendMessage(msg.sender, msg.text);
+            });
+            
+            loadSidebarSessions(); // Refresh sidebar to show active state
+        } catch (err) { console.error("Failed to load chat history:", err); }
+    }
+
+    function handleEnter(event) {
+        if (event.key === 'Enter' && !event.shiftKey) {
+            event.preventDefault();
+            sendMessage();
+        }
+    }
+
+    function appendMessage(sender, text, stats = null) {
+        const chatBox = document.getElementById('chatBox');
+        const isUser = sender === 'user';
+        
+        const wrapper = document.createElement('div');
+        wrapper.className = `message-wrapper ${isUser ? 'user-wrapper' : 'animate-fade-in'}`;
+        
+        const avatar = document.createElement('div');
+        avatar.className = `avatar ${isUser ? 'user-avatar' : 'bot-avatar'}`;
+        avatar.innerHTML = `<i class="fas fa-${isUser ? 'user' : 'robot'}"></i>`;
+        
+        const msgContentBox = document.createElement('div');
+        
+        // 1. Create the text bubble
+        const msgBubble = document.createElement('div');
+        let formattedText = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+        msgBubble.className = `message ${isUser ? 'user-message' : 'bot-message'}`;
+        msgBubble.innerHTML = formattedText;
+        msgContentBox.appendChild(msgBubble);
+
+        // 2. Append Stats Widget (Only if stats exist, meaning it's a bot response)
+        if (stats) {
+            const statsDiv = document.createElement('div');
+            statsDiv.className = 'message-stats';
+            
+            statsDiv.innerHTML = `
+                <div class="stat-badge">
+                    <i class="fas fa-file-alt"></i> 
+                    Original: <strong>${stats.original_tokens}</strong>
+                </div>
+                <div class="stat-badge">
+                    <i class="fas fa-compress-alt"></i> 
+                    Compressed: <strong>${stats.compressed_tokens}</strong>
+                </div>
+                <div class="stat-badge stat-highlight">
+                    <i class="fas fa-percent"></i> 
+                    Ratio: <strong>${stats.ratio}%</strong>
+                </div>
+                <div class="stat-badge">
+                    <i class="fas fa-stopwatch"></i> 
+                    Latency: <strong>${stats.latency}ms</strong>
+                </div>
+            `;
+            // Append the stats box right beneath the text bubble
+            msgBubble.appendChild(statsDiv);
+        }
+
+        wrapper.appendChild(avatar);
+        wrapper.appendChild(msgContentBox); // Append the box containing both text and stats
+        chatBox.appendChild(wrapper);
+        
+        chatBox.scrollTo({ top: chatBox.scrollHeight, behavior: 'smooth' });
+    }
+
+    async function sendMessage() {
+        const inputField = document.getElementById('userInput');
+        const text = inputField.value.trim();
+        const class_level = document.getElementById('classSelect').value;
+        const subject = document.getElementById('subjectSelect').value;
+
+        if (!text) return;
+        if (!class_level || !subject) {
+            alert("Please select both a class and a subject before asking a question.");
+            return;
+        }
+
+        appendMessage('user', text);
+        inputField.value = '';
+        
+        const chatBox = document.getElementById('chatBox');
+        const loadingId = "loading-" + Date.now();
+        const loadingHtml = `
+            <div id="${loadingId}" class="message-wrapper animate-fade-in">
+                <div class="avatar bot-avatar"><i class="fas fa-robot"></i></div>
+                <div class="message bot-message typing-indicator">
+                    <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+                </div>
+            </div>
+        `;
+        chatBox.insertAdjacentHTML('beforeend', loadingHtml);
+        chatBox.scrollTo({ top: chatBox.scrollHeight, behavior: 'smooth' });
+
+        try {
+            const response = await fetch('/api/chat', {
+                method: 'POST',
+                headers: getAuthHeaders(),
+                // NEW: Send the session ID and uploaded content (only if active) with the payload
+                body: JSON.stringify({ 
+                    message: text, 
+                    class_level: class_level, 
+                    subject: subject,
+                    session_id: currentSessionId,
+                    uploaded_text: uploadedFileActive ? uploadedText : null
+                })
+            });
+            
+            const data = await response.json();
+            document.getElementById(loadingId).remove();
+            
+            if (!response.ok) {
+                appendMessage('bot', data.error || 'An error occurred. Please try again.');
+                return;
+            }
+            
+            appendMessage('bot', data.reply, data.stats);
+            
+            // NEW: If this was the first message of a new chat, update the session state
+            if (!currentSessionId && data.session_id) {
+                currentSessionId = data.session_id;
+                loadSidebarSessions(); // Refresh sidebar to show the newly created chat
+            }
+            
+        } catch (error) {
+            document.getElementById(loadingId).remove();
+            appendMessage('bot', "Sorry, I'm having trouble connecting to the server.");
+        }
+    }
+
+    // --- UPDATED: Start a New Chat ---
+    function startNewChat() {
+        currentSessionId = null; // Clear active session state
+        
+        // Clean up uploaded file and reset upload state
+        cleanupUploadedFile();
+        uploadedText = null;
+        uploadedFilename = null;
+        uploadedCachedPath = null;
+        uploadedFileActive = false;
+        
+        // Hide the status button
+        const statusBtn = document.getElementById('uploadStatus');
+        statusBtn.style.display = 'none';
+
+        const chatBox = document.getElementById('chatBox');
+        chatBox.innerHTML = `
+            <div class="message-wrapper animate-fade-in">
+                <div class="avatar bot-avatar"><i class="fas fa-robot"></i></div>
+                <div class="message bot-message">
+                    <p class="message-title">New Conversation Started!</p>
+                    <p>Select your class and subject above to begin.</p>
+                </div>
+            </div>
+        `;
+        document.getElementById('classSelect').value = '';
+        const subjectSelect = document.getElementById('subjectSelect');
+        subjectSelect.innerHTML = '<option value="">-- Choose Subject --</option>';
+        subjectSelect.disabled = true;
+        
+        loadSidebarSessions(); // Refresh sidebar to remove active highlight
+    }
+    // --- NEW: Handle Welcome Screen Transition ---
+    function enterChat() {
+        const welcomeScreen = document.getElementById('welcomeScreen');
+        // Add the 'hidden' class to trigger the CSS fade out
+        welcomeScreen.classList.add('hidden');
+        
+        // Completely remove it from the DOM after the animation finishes (0.5 seconds)
+        // so it doesn't block any clicks on the chat interface
+        setTimeout(() => {
+            welcomeScreen.style.display = 'none';
+        }, 500);
+    }
+
+    // --- NEW: Speech-to-Text Logic ---
+    let recognition;
+    let isRecording = false;
+
+    // Check if the browser supports the Web Speech API
+    if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
+        const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+        recognition = new SpeechRecognition();
+        
+        recognition.continuous = false; // Stop listening when the user stops speaking
+        recognition.interimResults = false; // Only output the final transcribed text
+        recognition.lang = 'en-US'; // Set to English (can be changed to 'bn-IN' for Bengali if needed)
+
+        recognition.onstart = function() {
+            isRecording = true;
+            document.getElementById('micBtn').classList.add('recording');
+            document.getElementById('userInput').placeholder = "Listening...";
+        };
+
+        recognition.onresult = function(event) {
+            const transcript = event.results[0][0].transcript;
+            const inputField = document.getElementById('userInput');
+            
+            // Append transcribed text to whatever is already in the box
+            inputField.value = inputField.value + (inputField.value ? ' ' : '') + transcript;
+        };
+
+        recognition.onerror = function(event) {
+            console.error("Microphone error:", event.error);
+            stopMic();
+        };
+
+        recognition.onend = function() {
+            stopMic();
+        };
+    } else {
+        console.warn("Speech Recognition API is not supported in this browser.");
+    }
+
+    function toggleMic() {
+        if (!recognition) {
+            alert("Sorry, your browser doesn't support speech recognition. Please try using Google Chrome or Microsoft Edge.");
+            return;
+        }
+
+        if (isRecording) {
+            recognition.stop();
+        } else {
+            // NEW: Grab the currently selected language from the dropdown
+            const selectedLang = document.getElementById('micLangSelect').value;
+            recognition.lang = selectedLang;
+            
+            // Start listening!
+            recognition.start();
+        }
+    }
+
+    function stopMic() {
+        isRecording = false;
+        const micBtn = document.getElementById('micBtn');
+        if (micBtn) micBtn.classList.remove('recording');
+        
+        const inputField = document.getElementById('userInput');
+        if (inputField) inputField.placeholder = "Ask a question about your book...";
+    }
+
+    // Update the display when language is changed
+    document.getElementById('micLangSelect').addEventListener('change', function() {
+        const display = document.getElementById('micLangDisplay');
+        const selected = this.options[this.selectedIndex].text;
+        display.textContent = selected;
+    });
+</script>
+</body>
+</html>

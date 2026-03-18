@@ -1,0 +1,11 @@
+# Security: NEVER upload environment variables or API keys
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Database files (Don't upload other people's login data!)
+*.db
+*.sqlite3
+instance/

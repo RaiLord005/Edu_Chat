@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDU_CHAT - Login</title>
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='auth-style.css') }}">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Animated Background Elements -->
+    <div class="auth-bg-elements">
+        <div class="floating-icon"><i class="fas fa-book-open"></i></div>
+        <div class="floating-icon"><i class="fas fa-lightbulb"></i></div>
+        <div class="floating-icon"><i class="fas fa-graduation-cap"></i></div>
+        <div class="floating-icon"><i class="fas fa-flask"></i></div>
+    </div>
+
+    <div class="auth-container">
+        <div class="auth-card">
+            <div class="auth-header">
+                <div class="logo-icon">
+                    <i class="fas fa-book"></i>
+                </div>
+                <h1>EDU_CHAT</h1>
+                <p>Your Personal Study Assistant</p>
+            </div>
+
+            <form id="loginForm" class="auth-form">
+                <div class="form-group">
+                    <label for="username">Username</label>
+                    <div class="input-wrapper">
+                        <i class="fas fa-user"></i>
+                        <input 
+                            type="text" 
+                            id="username" 
+                            name="username" 
+                            placeholder="Enter your username" 
+                            required
+                            minlength="3"
+                            maxlength="50"
+                        >
+                    </div>
+                    <small class="error-message" id="usernameError"></small>
+                </div>
+
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <div class="input-wrapper">
+                        <i class="fas fa-lock"></i>
+                        <input 
+                            type="password" 
+                            id="password" 
+                            name="password" 
+                            placeholder="Enter your password" 
+                            required
+                            minlength="6"
+                        >
+                        <!-- <button type="button" class="toggle-password" onclick="togglePassword(event,'password')">
+                            <i class="fas fa-eye"></i>
+                        </button> -->
+                    </div>
+                    <small class="error-message" id="passwordError"></small>
+                </div>
+
+                <button type="submit" class="btn-auth">
+                    <i class="fas fa-sign-in-alt"></i> Login
+                </button>
+
+                <div class="error-box" id="formError"></div>
+            </form>
+
+            <div class="auth-footer">
+                <p>Don't have an account? 
+                    <a href="/register" onclick="sessionStorage.clear()">Create one now</a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // note: receive event from inline handler to avoid relying on global `event`
+        function togglePassword(evt, fieldId) {
+            const field = document.getElementById(fieldId);
+            const btn = evt.target.closest('.toggle-password');
+            if (field.type === 'password') {
+                field.type = 'text';
+                btn.innerHTML = '<i class="fas fa-eye-slash"></i>';
+            } else {
+                field.type = 'password';
+                btn.innerHTML = '<i class="fas fa-eye"></i>';
+            }
+        }
+
+        document.getElementById('loginForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            // Clear previous errors
+            document.getElementById('usernameError').textContent = '';
+            document.getElementById('passwordError').textContent = '';
+            document.getElementById('formError').textContent = '';
+            
+            const username = document.getElementById('username').value.trim();
+            const password = document.getElementById('password').value;
+            
+            // Validation
+            if (!username || username.length < 3) {
+                document.getElementById('usernameError').textContent = 'Username must be at least 3 characters';
+                return;
+            }
+            
+            if (!password || password.length < 6) {
+                document.getElementById('passwordError').textContent = 'Password must be at least 6 characters';
+                return;
+            }
+            
+            const btn = this.querySelector('button[type="submit"]');
+            const originalHTML = btn.innerHTML;
+            btn.disabled = true;
+            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Logging in...';
+            
+            try {
+                const response = await fetch('/api/auth/login', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ username, password })
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    // Store userId in sessionStorage
+                    sessionStorage.setItem('userId', data.user_id);
+                    sessionStorage.setItem('username', data.username);
+                    
+                    // Redirect to chat
+                    window.location.href = '/';
+                } else {
+                    document.getElementById('formError').textContent = 
+                        data.error || 'Login failed. Please check your credentials.';
+                }
+            } catch (error) {
+                console.error('Login error:', error);
+                document.getElementById('formError').textContent = 
+                    'An error occurred. Please try again.';
+            } finally {
+                btn.disabled = false;
+                btn.innerHTML = originalHTML;
+            }
+        });
+        
+        // Check if already logged in
+        window.addEventListener('load', function() {
+            if (sessionStorage.getItem('userId')) {
+                window.location.href = '/';
+            }
+        });
+    </script>
+</body>
+</html>

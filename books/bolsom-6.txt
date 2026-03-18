@@ -1,0 +1,2042 @@
+Based on the document **Blossoms: English textbook for class VI**, here is the text as written, excluding images and photos.
+
+---
+
+### **PAGE 1**
+
+**Blossoms**
+**English textbook for class VI**
+DEDEEDEER
+★
+শ্চিমবঙ্গ মধ্য শিক্ষা
+BOARD OF SECONDARY EDUCATION
+पश्चिमबंग मध्य शिक्षा पर्वद
+★
+BENGAL
+**West Bengal Board of Secondary Education**
+77/2, Park Street, Kolkata - 700016
+*
+
+---
+
+### **PAGE 2**
+
+According to New Syllabus
+First Edition: October, 2013
+Second Edition: December, 2014
+
+**West Bengal Board of Secondary Education**
+
+**COPYRIGHT**
+**WEST BENGAL BOARD OF SECONDARY EDUCATION**
+
+Copyright of this book and every part of it, including the arrangement, charts etc., is exclusively reserved for the West Bengal Board of Secondary Education. No part of the book can be printed or published and no explanatory notes or sample answer can be prepared without the express written permission of the West Bengal Board of Secondary Education. Any infringement of copyright, or preparation of notes, or sample answer in any manner will be severely dealt with and make such publishers liable to damages.
+
+By order of the Administrator
+
+**Published by**
+Prof. Nabanita Chatterjee
+Secretary
+West Bengal Board of Secondary Education
+77/2, Park Street, Kolkata - 700 016
+
+**Printed at**
+West Bengal Text Book Corporation Limited
+(Government of West Bengal Enterprise)
+Kolkata-700 056
+ii
+
+---
+
+### **PAGE 3**
+
+सत्यमेव जयते
+**THE CONSTITUTION OF INDIA PREAMBLE**
+
+WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political;
+
+LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity and to promote among them all - FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation;
+
+IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
+
+**ভারতের সংবিধান**
+**প্রস্তাবনা**
+
+আমরা, ভারতের জনগণ, ভারতকে একটি সার্বভৌম সমাজতান্ত্রিক ধর্মনিরপেক্ষ গণতান্ত্রিক সাধারণতন্ত্র রূপে গড়ে তুলতে সত্যনিষ্ঠার সঙ্গে শপথ গ্রহণ করছি এবং তার সকল নাগরিক যাতে সামাজিক, অর্থনৈতিক ও রাজনৈতিক ন্যায়বিচার;
+
+চিন্তা, মতপ্রকাশ, বিশ্বাস, ধর্ম এবং উপাসনার স্বাধীনতা; সামাজিক প্রতিষ্ঠা অর্জন ও সুযোগের সমতা প্রতিষ্ঠা করতে পারে এবং তাদের সকলের মধ্যে ব্যক্তি-সম্ভ্রম ও জাতীয় ঐক্য এবং সংহতি সুনিশ্চিত করে সৌভ্রাতৃত্ব গড়ে তুলতে;
+
+আমাদের গণপরিষদে, আজ, ১৯৪৯ সালের ২৬ নভেম্বর, এতদ্বারা এই সংবিধান গ্রহণ করছি, বিধিবদ্ধ করছি এবং নিজেদের অর্পণ করছি।
+iii
+
+---
+
+### **PAGE 5**
+
+**PREFACE**
+
+Secondary Education is meant for the students who have entered the arena of education from the Primary level. In this arena the utmost need is to help the young buds to flower, to extend their knowledge and to explore their aptitudes, potentials towards different streams of learning for their further education. Keeping this concept in mind the new series of English textbooks for Secondary education is thus named "BLOSSOMS".
+
+This series of textbooks is based on the new curriculum and syllabus framed and recommended by the newly formed "Expert Committee" comprising of eminent academicians. The books are in the line with the vision of NCF 2005 and RTE Act 2009. This series of textbooks for Upper Primary Level (Class VI to VIII) is meant for the learners of English is a second language.
+
+The pieces selected in the series are aimed to expose the learners to the thoughts and writings of the world's best writers and thinkers. The pieces are arranged in a graded manner so as to ensure a smooth progress to the next level. At the end of each lesson sufficient exercises have been provided to measure and reinforce language skills. The practice tests are designed to encourage students' participation. After completion of each exercise the learner will feel a sense of achievement which will motivate the young learners to go for the next.
+
+The targeted age group falls in that learners is begin to take shape. "BLOSSOMS" aims to inculcate in learners, particularly the first-generation institutional learners, love for the richness and variety of English language literature. It is hoped that the new series of books would contribute a lot in making the young learners learning English language, a gateway to modern communication and trade.
+
+Taking the help of Paschim Banga Sarba Siksha Mission these books are being distributed free of cost among the learners. In materialising this project Hon'ble Education Minister Dr. Partha Chatterjee, Govt of West Bengal, the School Edn. Dept., Directorate of School Edn., Govt. of West Bengal and the Paschim Banga Sarba Siksha Mission-all have extended their valued help and their role has always been indisputably momentous in all respect.
+
+A group of eminent educationists, teachers and subject experts worked hard to develop the textbook. The book has been illustrated by the renowned artist. I thank them all for their notable work.
+
+All suggestions to improve the series are welcome.
+
+July, 2014
+77/2, Park Street, Kolkata 700 016
+
+Kalyanmoy Ganguly
+Administrator
+West Bengal Board of Secondary Education
+V
+
+---
+
+### **PAGE 6**
+
+**Textbook Development Committee under Expert Committee**
+
+**Members**
+Prof. Aveek Majumder (Chairman, Expert Committee)
+Prof. Anuradha Ghosh (Convenor, English)
+Keya Basu Jana
+Papri Basu
+Pulak Roy Chowdhury
+Prof. Rathindranath De (Member Secretary, Expert Committee)
+Prof. Amlanjyoti Das
+Anindya Sengupta
+Deblina Mitra
+Purnendu Chatterjee
+Ratul Kumar Guha
+vi
+
+---
+
+### **PAGE 7**
+
+**FOREWORD**
+
+The Hon'ble Chief Minister of West Bengal Smt. Mamata Banerjee constituted an 'Expert Committee' to review the entire aspects of school level curriculum, syllabus and textbooks in 2011. The new curriculum, syllabus, and textbooks are developed according to the recommendations of the Committee. The new English textbooks for the Upper Primary level fall under a newly named series, 'Blossoms'.
+
+We have tried to develop and formulate the textbooks in line with the vision of NCF 2005 and RTE Act 2009. In this textbook we have shifted from the conventional approach to a child-centric, activity based approach to learning. The exercises for the learners have been designed accordingly. A special effort has been taken to develop the conversational skills in English for the learners.
+
+The theme for Blossoms: English textbook for class VI is 'the world of imagination'. A teachers' guideline is appended at the end of the book. The textbooks venture to link classroom experiences with nature and society. We hope to supply our learners with enough material to develop their language skills and sense of aesthetics. For the latter we had invited famous artists to illustrate the books.
+
+The texts represent a varied spectrum of experiences and achievements. They will, certainly, help the learners to build their vision and perspective to life. We thank the West Bengal Board of Secondary Education, School Education Department, Govt of West Bengal and PBSSM for their active support. The West Bengal Board of Secondary Education has obliged us by giving their approval for this textbook.
+
+A chosen group of educationists, teachers and subject experts developed this book in a very short period of time. If the book can help learners to apply the language in real-life situations, we will consider our initiative successful. The Hon'ble Education Minister Dr. Partha Chatterjee has enriched us with his views and comments, We express our gratitude to him.
+
+We invite all people who love education to convey their views for the improvement of the book.
+
+Thank You.
+
+July, 2014
+Nivedita Bhavan, 5th Floor, Bidhannagar, Kolkata-700091
+vii
+
+Aveek Majumder
+Chairman
+Expert Committee
+School Education Department
+Govt. of West Bengal
+
+---
+
+### **PAGE 8**
+
+**Contents**
+
+* **Revision Lesson** (Page 1-6)
+* **Lesson 1: It All Began With Drip-Drip** (Page 7-19)
+* **Lesson 2: The Adventurous Clown** (Page 20-29)
+* **Lesson 3: The Rainbow** (Page 30-35)
+* **Lesson 4: THE MAGIC SHOP - The Shop That Never Was** (Page 36-45)
+* **Lesson 5: Land of the Pharaohs** (Page 46-58)
+* **Lesson 6: How The Little Kite Learned to Fly** (Page 59-65)
+* **Lesson 7: The Magic Fish Bone** (Page 66-77)
+viii
+
+---
+
+### **PAGE 9**
+
+* **Lesson 8: Goodbye to the Moon** (Page 78-89)
+* **Lesson 9: I Will Go With My Father A-ploughing** (Page 90-95)
+* **Lesson 10: Smart Ice Cream** (Page 96-105)
+* **Lesson 11: The Blind Boy** (Page 106-111)
+* **Lesson 12: Rip Van Winkle** (Page 112-121)
+* **Teachers' Guidelines** (Page 122-125)
+* **My Page** (Page 126)
+
+Cover and Illustrations: Sampriya Bandyopadhyay, Sankha Bandyopadhyay
+ix
+
+---
+
+### **PAGE 11**
+
+**Let's do: Revision Lesson**
+
+**Activity 1**
+Change the number of the given words:
+| Singular | Plural |
+| :--- | :--- |
+| child | |
+| | men |
+| OX | |
+| | geese |
+| deer | |
+
+**Activity 2**
+Identify the gender of the following nouns and put them in the correct boxes:
+parent, lioness, tree, nephew, bull, student, nun, tiger, room, hind, glass
+
+| Feminine | Masculine | Neuter | Common |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+1
+
+---
+
+### **PAGE 12**
+
+**Activity 3 (a)**
+Fill in the blanks with suitable articles:
+(i) There is ____ owl on ____ tree.
+(ii) Rima is ____ best girl in the class.
+(iii) The house is beside ____ Ganges.
+(iv) Rabindranath Tagore was ____ great poet.
+
+**Activity 3 (b)**
+Choose suitable prepositions from the Help Box and fill in the blanks.
+(i) ____ Sundays I go for swimming.
+(ii) The farmer is sitting ____ the tree.
+(iii) The lady is standing ____ the bus stop.
+(iv) The river flows ____ the village.
+
+**Help Box:** from, in, at, under, into, beside, on
+
+**Activity 4**
+Make meaningful sentences with the following adjectives:
+good :
+six :
+beautiful :
+few :
+2
+
+---
+
+### **PAGE 13**
+
+**Let's talk:**
+Study the above picture and describe it to the class.
+
+**Let's do:**
+**Activity 5**
+Tick the correct answer from the alternatives given in brackets:
+(a) He (watches/watched) the film yesterday evening.
+(b) The child (is reading/read) a story book now.
+(c) My father (is going/ went) to Kolkata last week.
+(d) The boys (are playing/played) football in the field now.
+3
+
+---
+
+### **PAGE 14**
+
+**Activity 6**
+Complete the crossword puzzle with the help of the given clues. Use capital letters:
+**Across:**
+2: traditional folk dance of West Bengal
+3: one of the Seven Wonders of the World
+5: classical music of Southern India
+**Down:**
+1: a classical dance of Kerala
+4: carving on wood or stone
+6: matching in rhythm
+
+**Activity 7**
+Punctuate the given sentences:
+(a) one day a little boy was sitting with a nail a piece of wood and a hammer
+(b) what are you doing my son
+(c) oh my toy is broken
+(d) don't cry my child said the stranger
+4
+
+---
+
+### **PAGE 15**
+
+**Activity 8**
+Identify the common and proper nouns given below and place them in the correct columns:
+Vidyasagar, Elephant, Grapes, Damodar, Darjeeling, Street
+
+| Common nouns | Proper nouns |
+| --- | --- |
+|  |  |
+
+**Activity 9**
+Underline the personal pronouns and circle the possessive pronouns used in the passage:
+I am Jhumi. Rana is my cousin. He is a kind boy. He has lent his book to my sister, Rumni. Rumni and Rana are classmates. They go to school together. Their school is near our village.
+
+**Let's talk:**
+Tell the class who your best friend is. Give a description of your best friend and also state why you like him/her.
+
+**Let's do:**
+**Activity 10**
+Write five sentences on your hobby. Use the following hints:
+what do you do in your free time — describe it — how much you enjoy doing it — do you learn anything from it
+5
+
+---
+
+### **PAGE 16**
+
+**Let's recite:**
+**The Little Plant**
+In the heart of a seed,
+Buried deep so deep,
+A tiny plant,
+Lay fast asleep.
+
+'Wake,' said the sunshine,
+'And creep to the light,'
+'Wake,' said the voice
+Of the raindrops bright.
+
+The little plant heard
+And it rose to see,
+What the wonderful
+Outside world might be.
+*-Kate Louise Brown*
+6
+
+---
+
+### **PAGE 17**
+
+**Lesson 1**
+**It All Began With Drip-Drip**
+*-Alka Shankar and Sharleen Mukundan*
+
+**Let's start:**
+Alka Shankar is an author of repute. Her well-known book is *The Mighty and the Mystical Rivers of India-exotic India*. She is famous for her children's books.
+
+Sharleen Mukundan is a renowned children's author. She has written *Murthy: the Story Book* in collaboration with Alka Shankar.
+
+**Let's share:**
+Which of the following actions would you consider to be true acts of bravery? Why do you think so? Discuss in groups.
+
+* rolling down a hill
+* swimming against the tide
+* rescuing people from a house on fire
+* saving a person who is drowning
+
+**Let's read:**
+A tiger was caught in a storm. He had wandered near the village, looking for something to eat. On the outskirts of that village lived an ill-tempered old woman. The tiger huddled in shelter close to the wall of the woman's hut.
+
+The old woman was feeling very ill-tempered that night. The rainwater was leaking through the roof. "There is no escape from this drip-drip", she muttered angrily, pushing...
+7
+
+---
+
+### **PAGE 18**
+
+...her bed around the room to keep it dry. She shoved the bed and a tin trunk against a wall. The wall shook. "This drip-drip will be the death of me!" she shouted.
+
+The tiger on the opposite side of the wall felt the wall shake and was frightened. "The drip-drip must be a very dreadful creature," he thought.
+
+Meanwhile, Bholenath, the potter, was out in the night, looking for his donkey in the storm. Suddenly he saw an animal huddled in the dark against the wall of the woman's hut.
+
+**Word Nest:**
+
+* **outskirts:** parts of the village or city farthest from the central area
+* **huddled:** curled up
+* **muttered:** talked indistinctly in a low voice
+* **shoved:** pushed something in a rough way
+* **dreadful:** fearful
+8
+
+---
+
+### **PAGE 19**
+
+**Let's do:**
+**Activity 1**
+Tick [ the correct alternative:
+(a) The tiger took shelter near the house of (i) an old woman (ii) an old man (iii) a neighbour.
+(b) The old woman was (i) soft-spoken (ii) ill-tempered (iii) shy.
+(c) The tiger thought drip-drip was (i) the constant falling of rain (ii) the name of a man (iii) a creature.
+(d) Bholenath was a (i) farmer (ii) weaver (iii) potter.
+
+**Activity 2**
+Rearrange the following sentences in the correct order:
+(1) She pushed her bed around the room to keep it dry.
+(2) The tiger took shelter outside an old woman's hut.
+(3) Bholenath was looking for his donkey.
+(4) A tiger was caught in a storm.
+(5) Bholenath saw an animal huddled against the wall of the woman's hut.
+(6) The old woman was ill-tempered that night.
+
+Based on the document **Blossoms: English textbook for class VI**, here is the continuation of the text, starting from Lesson 2, excluding all images.
+
+---
+
+### **PAGE 30**
+
+**Lesson 2** **The Adventurous Clown** -Enid Blyton 
+
+**Let’s start:** Enid Mary Blyton (1897-1968) is one of the most popular British children's authors of all times. Her works include series of novels in which children have their own adventures with minimal adult help. The most popular among these are The Famous five, based on four children and their dog, and The Secret Seven, a society of seven children who solve various mysteries. This text is an edited version of her short story The Adventurous Clown.
+
+**Let’s share:** Discuss with your partner and tell the class: 
+
+* Do you enjoy playing with toys? 
+
+
+* What are the different kinds of toys that you would like to have? 
+
+
+* Where do you normally see a clown? 
+
+
+
+**Let’s read:** There was once a toy clown called Tuffy. He lived in a toy shop with many other toys. Tuffy longed to be a hero. He wanted to do something noble so that all the toys would cry out that he was a hero. He thought his little corner on the toy shelf was dull.
+
+"Why do you grumble so much?" asked Timothy, the puppy dog. "Be happy with us, Tuffy. Why do you want to go off and have adventures?" 20 
+
+---
+
+### **PAGE 31**
+
+"Adventures are always exciting. I want to do something that would make all the toys take notice of me. It's so dull up here on our shelf," replied Tuffy.
+
+At night, the clown climbed down from his shelf to look for adventures. Now that night there was to be a grand race between two wooden horses and carts driven by wooden farmers. The race was just starting as Tuffy climbed down. One cart came racing by. The farmer riding it stood up and shouted! 
+
+"Goodness! An adventure already! A runaway horse!" thought Tuffy. "Now is my chance to be a hero". The horse and the cart came round again and Tuffy jumped at the reins. He held on to them and dragged the horse to one side. The cart turned over and the farmer fell down. Tuffy stood by, helping him up, feeling very proud that he had stopped the horse. But the farmer was terribly angry.
+21 
+
+---
+
+### **PAGE 32**
+
+**Word Nest:** 
+
+* 
+**grumble:** complain in a bad-tempered way 
+
+
+* 
+**adventures:** unusual, exciting or dangerous experiences 
+
+
+
+**Let’s do:** **Activity 1** 
+Rearrange the following sentences in the correct order and put the numbers in the given boxes. One is done for you: 
+(1) Tuffy jumped at the reins. 
+(2) The toy clown wanted to be a hero. 
+(3) The farmer was terribly angry. 
+(4) There was a grand race between two wooden horses and carts driven by wooden farmers. 
+(5) He found the little corner of the toy shelf to be dull. 
+(6) The cart turned over. 
+
+**Activity 2** 
+Fill in the blanks with words given in the Help Box. There is one extra word: 
+Tuffy, the toy clown lived in a __________. He wished to do something __________. His friend, Timothy, felt that the clown always __________. But Tuffy thought that the adventures were always __________. **Help Box:** exciting, grumbled, noble, toyshop, dull 22 
+
+---
+
+### **PAGE 33**
+
+**Activity 3** Answer the following question: "Adventures are always exciting"—Why do you think Tuffy said so? 
+
+**Let’s continue:** "What do you mean by spoiling my race like that?" he shouted. "Now the other horse and cart will win! You silly, little clown!" 
+
+Tuffy was upset. "You don't understand I'm a hero!" He ran out and sat down in a toy farm wiping his tears. Suddenly Tuffy noticed a doll's house in a corner of the shop. He saw smoke coming out of one of the windows. "Fire! Fire!" shouted Tuffy. "Another adventure! I'll put it out at once".
+23 
+
+---
+
+### **PAGE 34**
+
+He found a ladder and put it up against the wall of the doll's house. Then he took a big bucket, filled it with water from the farm pond. He climbed the ladder and threw all the water in at the window.
+
+Just then, someone caught him by the collar and roared, "And what do you think you're doing playing a silly trick like that?" 
+
+Poor Tuffy was shaken like a rat. "Don't do that!" he shouted. "I am a hero! I was putting out the fire".
+
+Tuffy saw that he was speaking to a sailor doll who was making porridge. "Can't I cook in peace without you coming and throwing water at me?" 
+
+"They won't let me be a hero," he sobbed. Soon after, he heard a cry and looked around. There was a big bowl of water nearby. In it were swimming two fine goldfish. And there was a small doll too! 
+
+"She's fallen in! I'll rescue her! This is a real adventure at last!" 
+
+**Word nest:** 
+
+* 
+**upset:** disturbed, worried 
+
+
+* 
+**porridge:** dish of oats boiled with water or milk 
+
+
+* 
+**rescue:** save from danger 24 
+
+
+
+---
+
+### **PAGE 35**
+
+**Let’s do:** **Activity 4** 
+Write 'T' for true and 'F' for false statements in the given boxes. Give supporting statements for each of your answers: 
+(a) The farmer called the toy clown silly. 
+(b) Tuffy threw all the water at the farmer. 
+(c) The sailor doll could not cook in peace. 
+(d) Three goldfish were swimming in a big bowl of water. 
+
+**Activity 5** Answer the following questions: 
+(a) What did Tuffy do when he got upset? 
+(b) How did the toy clown put out the fire? 
+(c) Why was the sailor doll angry? 
+(d) What real adventure did Tuffy find at last? 
+
+**Let’s continue:** He caught hold of a little net and dipped it into the water. He brought the little doll out. But she slipped out and fell on to the table banging her head. She began to cry. Up came a policeman doll and said fiercely, "What are you doing, catching the doll and making her bump her head like that?" 
+
+"I was saving her from drowning!" said Tuffy. "I was having such a lovely swim!" sobbed the little doll. "I swim with the goldfish every night. But that clown caught me in a nasty net and spoilt my fun. He isn't a hero at all!" 
+
+The policeman locked Tuffy in a room in the police station. Suddenly he heard a noise outside the window of the room. "Tuffy, Tuffy!" barked a little voice. "It is I, Timothy. Here is the key to the door".
+25 
+
+---
+
+### **PAGE 36**
+
+Tinkle! The key fell to the floor and the clown quickly unlocked the door. Timothy and he ran off together and climbed up to the shelf.
+
+"Thank you. You're the hero!" he said. "I didn't stop to think. But you saw I was in real trouble and you saved me". The toy dog blushed.
+
+"Oh! How peaceful it is up here. I'll never want to leave this shelf again". And, until he was sold, he never did! 
+
+**Word nest:** 
+
+* 
+**fierce:** angrily 
+
+
+* 
+**sobbed:** cried with loud gasps 
+
+
+* 
+**blushed:** became red-faced through shyness 26 
+
+
+
+---
+
+### **PAGE 37**
+
+**Let’s do:** **Activity 6** Fill in the chart with information from the text: 
+(a) **Effect:** The little doll began to cry. 
+(b) **Effect:** The little doll complained to the policeman about Tuffy. 
+(c) **Effect:** Timothy dropped the key to the floor of the room. 
+(d) **Effect:** Tuffy decided never to leave the toy shelf again. 
+
+**Activity 7** Answer the following questions in complete sentences: 
+(a) Why did Tuffy put the little net in the water? 
+(b) What made the little doll think that Tuffy was not a hero? 
+(c) How was Tuffy released from the police station? 
+(d) Why did Timothy blush? 
+
+**Let’s learn:** Read the following sentences carefully: 
+
+* Poor Tuffy was shaken like a rat. 
+
+
+* What do you mean by spoiling my race like that? 
+
+
+* I am a hero. 27 
+
+
+
+---
+
+### **PAGE 38**
+
+In the above sentences, the coloured words help to form tenses, questions and to explain the sense of the sentences. These words are called auxiliary verbs. Note that the auxiliary verb 'be' takes the forms of 'am', 'is', 'are', 'was' and 'were'.
+
+**Let’s do:** **Activity 8** Fill in the blanks with the correct form of the given verbs in the brackets: 
+(a) __________ your work now. (do) 
+(b) The door __________ opened. (be) 
+(c) Usually, Pulak __________ his work well. (do) 
+(d) I __________ working. (be) 
+
+**Activity 9** Make meaningful sentences of your own with the following words: 
+
+* fierce 
+
+
+* bump 
+
+
+* drowning 
+
+
+* nasty 
+
+
+
+**Let’s talk:** 
+Do you think Tuffy is really a hero? Discuss with your partner.
+28 
+
+---
+
+### **PAGE 39**
+
+**Let’s do:** **Activity 10 (a)** Write a paragraph in about sixty words on 'A boat journey' using the following hints: moonlit night four friends boat on a wide river- rippling of the water- dark forest on either side-thrill of the journey 
+
+**Activity 10 (b)** 
+Suppose you spent a night with Tuffy in the toy shop. Write a short paragraph in about sixty words describing your experience.
+
+**Let’s work together:** 
+
+* Take a pair of old socks.
+
+
+* Stuff them with cotton wool.
+
+
+* Take a sheet of coloured paper. Fold it to make a clown's cap. Put the cap on one sock.
+
+
+* Imagine the puppet to be Tuffy.
+
+
+* Take a long piece of paper to make a tail. Fix it to the other sock.
+
+
+* Imagine the other puppet to be Timothy.
+
+
+* Now start an imaginary conversation between Tuffy and Timothy.
+29 
+
+
+
+---
+
+### **PAGE 40**
+
+**Lesson 3** **The Rainbow** Christina Georgina Rossetti 
+
+**Let’s start:** Christina Georgina Rossetti (1830-1894) was an English poet who wrote a variety of romantic, devotional and children's poems. She is perhaps best known for her poem Goblin Market.
+
+**Let’s share:** 
+
+1. Fill in the blanks with suitable words: 
+(a) We see clouds in the __________ 
+(b) The sky gets clear after __________ 
+(c) An arrow is shot from a __________ 
+(d) White is the __________ of peace. 
+
+
+2. Look at the pictures: 
+Which particular word comes to your mind after seeing the two pictures? Write it down in the given box.
+30 
+
+
+
+---
+
+### **PAGE 41**
+
+**Let’s read:** **The Rainbow** Boats sail on the rivers, And ships sail on the seas; But clouds that sail across the sky Are prettier than these. 
+
+There are bridges on the rivers, As pretty as you please; But the bow that bridges heaven, And overtops the trees, And builds a road from earth to sky, Is prettier far than these. 
+
+**Word nest:** 
+
+* 
+**prettier** - more beautiful 
+
+
+* 
+**overtops** - lies above 31 
+
+
+
+---
+
+### **PAGE 42**
+
+**Let’s do:** **Activity 1** Tick [ the correct alternative: 
+(a) Ships sail on the (i) pond (ii) lake (iii) sea 
+(b) Clouds are prettier than (i) rain and sky (ii) boats and ships (iii) rivers and seas 
+(c) The poet talks about a bow that bridges (i) heaven (ii) sea (iii) river 
+(d) The poet mentions that the road is from (i) sky to earth (ii) earth to river (iii) earth to sky 
+
+**Activity 2** Complete the following sentences with information from the text: 
+(a) Boats sail on __________ 
+(b) The sailing boats and ships are less beautiful than __________ 
+(c) Bridges are built over __________ 
+(d) The bow builds __________ 
+
+**Activity 3** Answer the following question: 
+Boats and ships sail on the water, while clouds sail across the sky. State the difference in their manner of sailing.
+32 
+
+---
+
+### **PAGE 43**
+
+**Activity 4** Fill in the following chart with information from the text: 
+(a) **What:** __________ **Where:** on the rivers 
+(b) **What:** Clouds sail **Where:** __________ 
+(c) **What:** __________ **Where:** bridges heaven 
+(d) **What:** __________ **Where:** overtops the trees 
+
+**Activity 5** Answer the following questions in complete sentences: 
+(a) What is prettier than boats, ship and clouds? 
+(b) What are the clouds compared to? 
+(c) How do you think the rainbow builds a road from the earth to the sky? 
+(d) Which, according to the poet, is the prettiest of all objects mentioned in the poem? 
+
+**Activity 6(a)** Read the passage: Standing on the sea-shore, the four friends were watching the night sky. They looked at the stars in wonder. They felt the soothing breeze and heard the waves roaring in the deep sea.
+Pick out the countable and uncountable nouns and fill in the table: 33 
+
+---
+
+### **PAGE 44**
+
+**Activity 6(b)** Circle the collective nouns and underline the abstract nouns in the following sentences: 
+(i) The fleet move across the ocean. 
+(ii) Honesty is the best policy. 
+(iii) A troop came marching on. 
+(iv) The old man is known for his wisdom. 
+
+**Activity 6(c)** Fill in the blanks with the correct form of the given verbs in the brackets: 
+(i) She __________ singing a song. (be) 
+(ii) My father __________ his work last night. (do) 
+(iii) They __________ to the playground. (go) 
+(iv) The football match __________ seen by many people. (be) 
+
+**Activity 7(a)** Fill in the blanks with appropriate words from the help box: 
+(i) She has a __________ blue skirt. 
+(ii) __________ help us to cross rivers. 
+(iii) Ships __________ across the ocean. 
+(iv) We must plant trees to save our __________. **Help Box:** sail, pretty, bridges, earth 34 
+
+---
+
+### **PAGE 45**
+
+**Activity 7(b)** Make meaningful sentences of your own with the following words: 
+
+* build 
+
+
+* across 
+
+
+* bridge 
+
+
+* road 
+
+
+
+**Let’s talk:** 
+Suppose one day it has been raining since early morning. Your school declared a holiday for the rains. Now discuss with your partner how you would spend such a day.
+
+**Let’s do:** **Activity 8(a)** After a heavy shower, we often see that a rainbow appears in the sky. Write a paragraph in about sixty words describing the scene as you see it. Use the following hints: time of the day- place- the clear, cloudless sky- how the rainbow looks like- colours of the rainbow- your feelings.
+
+**Activity 8(b)** 
+Suppose you are standing on a bridge looking down. Write a paragraph in about sixty words describing the things that you see below.
+
+**Let’s work together:** Draw pictures of a few things you need on a rainy day. Write two sentences on the use of each of them.
+35 
+
+---
+
+### **PAGE 46**
+
+**Lesson 4** **The Shop That Never Was** 
+-H.G. Wells 
+
+**Let’s start:** Herbert George Wells (1866-1946), a famous English writer, was best known for his science fictions. His most notable science fictions include The Time Machine, The Invisible Man etc. Wells also wrote many short stories. One of his best-known short stories is The Country of the Blind. The Shop That Never Was is an adaptation from his famous short story The Magic Shop.
+
+**Let’s share:** 
+
+1. Read the following hints and solve the crossword: **Across:** (1) disappear (2) a piece of glass to see one's reflection **Down:** (3) the trick that makes things appear or disappear (4) performance 
+
+
+2. What do the words in the crossword tell you about? Discuss with your partner and tell the class.
+36 
+
+
+
+---
+
+### **PAGE 47**
+
+**Let’s read:** I had seen the Magic Shop from afar several times. I had passed it once or twice, but never had I thought of going in. One day, my son, Gip dragged me up to the shop. There was such keenness in him that I was forced to get in.
+
+It was a little narrow shop, not very well lit. On the shop counter, there were several crystal balls. On the floor, there were magic mirrors: one to draw you out long and thin and one to make you short and fat. While we were laughing at all these, the shopman appeared.
+
+"How can I help you?" said he.
+"I want to buy my little boy a few simple tricks," I said.
+
+"Um!" said the shopman, and scratched his head for a moment, as if thinking. Then he drew from his hair a glass ball and said, "Something like this?" and held it out. The action was unexpected. I had seen the trick done at magic shows, but I had not expected it here.
+
+"That's good", I said with a laugh.
+"Isn't it?" said the shopman.
+Gip stretched out his hand to take this object and found merely a blank palm.
+37 
+
+---
+
+### **PAGE 48**
+
+**Word Nest:** 
+
+* 
+**keenness:** eagerness 
+
+
+* 
+**crystal:** shiny glass ball 
+
+
+
+**Let’s do:** **Activity 1** 
+Rearrange the following sentences in the correct order and put the numbers in the given boxes. One is done for you: 
+(1) The shopman brought out a glass ball from his hair. 
+(2) It was a small shop, not so well-lit. 
+(3) Gip wanted to take the glass ball. 
+(4) Gip dragged his father to the magic shop. 
+(5) Gip and his father were surprised. 
+(6) There were different kinds of magic mirrors in the shop. 
+
+**Activity 2** Fill in the blanks using words from the Help-Box: Gip was __________ to enter the magic shop. The shop had many __________ balls. Gip's father wanted to buy some __________ for his son. The shopman performed an __________ action.
+**Help-Box:** scratched, keen, unexpected, tricks, crystal 
+
+**Activity 3** Answer the following question: Why did Gip find the shopman's palm blank? 38 
+
+---
+
+### **PAGE 49**
+
+**Let’s continue:** "It's in your pocket," said the shopman, and there it was.
+"How much does it cost?" I asked.
+"There is no charge for glass balls," said the shopman politely. "We get them free".
+
+He drew a business card from his cheek and handed it to me. "Genuine Magic Goods, sir," he said. He now turned towards Gip with a friendly smile and said, "You wanted a magic box, didn't you?" "Yes," Gip said.
+"It's in your pocket," he said. Gip discovered the box with surprise.
+
+Then the shopman quickly went behind the counter and was absent for a while.
+"Let's look behind the counter, Gip," I said. "He's making fun of us".
+
+Just then, he appeared again from a dark corner of the room. "You'd like to see our showroom, Sir?" said he. Gip tugged my finger forward. In the showroom, there were many things that Gip fancied. He turned to this astonishing man with respect. "Is that a magic sword?" he said.
+
+"A Magic Toy Sword—this is a unique one! It neither bends, breaks, nor cuts the fingers," replied the shopman. I tried to find out what they cost, but the shopman did not pay attention to me. He had got Gip now. I saw, with a feeling of distrust, that Gip was holding this person's finger as usually he held mine.
+39 
+
+---
+
+### **PAGE 50**
+
+The shopman showed Gip magic-trains that ran without steam, clockwork and a box of soldiers that all came alive when one said a magic word. "You've never seen such a one!" said the shopman. "You'll take that box?" "We'll take that box," I said.
+
+And the shopman swept the soldiers back again, shut the lid, and waved the box in the air. And there it was, in brown paper, tied up and with Gip's full name and address on the paper. He laughed at my amazement.
+
+**Word Nest:** 
+
+* 
+**tugged:** pulled 
+
+
+* 
+**amazement:** surprise 
+
+
+
+**Let’s do:** **Activity 4** 
+Write 'T' for true and 'F' for false statements in the given boxes. Give supporting statements for each of your answers: 
+(a) The shopman drew out a business card from his hair. 
+(b) Gip found the magic box in his pocket. 
+(c) The toy sword was a magic item. 
+(d) The narrator found his full name on the magic box. 40 
+
+---
+
+### **PAGE 51**
+
+**Activity 5** Answer the following questions: 
+(a) Why was Gip surprised? 
+(b) Why did the narrator fail to find out the cost of the magic items? 
+(c) What items did the shopman show to Gip? 
+(d) What was the cause of the narrator's amazement? 
+
+**Let’s continue:** I felt very uneasy and began to look for the way out. Turning to Gip, I saw him standing on a stool. The shopman was holding a big drum in his hand. "We're playing hide and seek, daddy!" cried Gip.
+
+And before I could prevent him, the shopman had put the big drum over him. "Take that off," I cried, "this instant. You'll frighten the boy". The shopman did so without a word. He held the big drum towards me to show its emptiness. The stool was empty, too. My boy had disappeared! 
+
+"Where is my boy?" I said. "You see," he said, displaying the drum's interior, "this is genuine magic!". I jumped at him and fell into utter darkness.
+
+THUD! "Sorry, Sir, I didn't see you coming," someone said.
+41 
+
+---
+
+### **PAGE 52**
+
+I saw I was in Regent Street and I had collided with a man, and a yard away was Gip. He was carrying four parcels in his arm. He smiled at me. He did not look scared.
+
+For a second I was at a loss. I stared round to see the door of the magic shop. It was not there. There was no door, no shop, nothing. I did the only thing possible in that mental state. I called for a cab.
+
+I got in with Gip. "Dad!" Said Gip at last, "that was a proper magic shop!". Gip looked completely undamaged. He was neither scared, nor disturbed. There in his arms were four parcels containing items from the magic shop.
+
+Since then I have been up and down Regent Street several times looking for that shop. After all, I had not paid for the items.
+
+**Word Nest:** 
+
+* 
+**interior:** inside of a house or room 
+
+
+* 
+**collided:** hit against something 
+
+
+* 
+**cab:** vehicle, popularly known as taxi 
+
+
+
+**Let’s do:** **Activity 6** Fill in the chart with information from the text: 
+(a) **Cause:** __________ **Effect:** The narrator thought that his son would be frightened 
+(b) **Cause:** Gip's father jumped at the shopman **Effect:** __________ 
+(c) **Cause:** __________ **Effect:** the narrator called for a cab 
+(d) **Cause:** __________ **Effect:** Gip's father went up and down Regent Street looking for the magic shop.
+42 
+
+---
+
+### **PAGE 53**
+
+**Activity 7** Answer the following questions in complete sentences: 
+(a) What did the shopman do with the drum? 
+(b) Why did the narrator think that his son would be frightened? 
+(c) Where did the narrator again find his son? 
+(d) What was the mental state of the narrator? 
+
+**Let’s learn:** Read the following sentences: 
+(1) A Magic Toy Sword—this is a unique one! 
+(2) You've never seen such a one! 
+
+The choice between 'a' and 'an' before a noun is determined by the sound of the initial letter of the word. You have learnt in the previous classes that 'an' is used before a word beginning with a vowel sound. But in sentences 1 and 2 the words 'unique' and 'one' begin with a consonant sound. The letter 'u' in unique is pronounced as 'yu' and the 'o' in one is pronounced as 'wa'. In such cases the indefinite article 'a' is used. Let us study further examples: 
+(3) He is an honest man. 
+(4) She waited for an hour. 
+
+In sentences 3 and 4, the words 'honest' and 'hour' begin with a vowel sound although the initial letters begin with the consonant 'h'. So, the article 'an' is used before the words 'honest' and 'hour'.
+43 
+
+---
+
+### **PAGE 54**
+
+**Let’s do:** **Activity 8** Fill in the blanks with appropriate articles: 
+(a) Last week I saw __________ one-day cricket match between India and Australia.
+(b) There is __________ university in our district.
+(c) Brutus is __________ honourable man.
+(d) She arrived __________ hour late.
+
+**Activity 9(a)** Make meaningful sentences of your own with the following words: 
+
+* prevent 
+
+
+* disappeared 
+
+
+* stared 
+
+
+* parcel 
+
+
+
+**Activity 9(b)** Find words from the text which are similar in meaning to the following: 
+(i) frightened 
+(ii) at a particular moment 
+(iii) showing 
+(iv) relating to the mind 44 
+
+---
+
+### **PAGE 55**
+
+**Let’s talk:** Start a conversation with your friend on any one of the following that you may have seen: 
+(1) a dance drama (2) a football match (3) a magic show 
+
+**Let’s do:** **Activity 10 (a)** Suppose you see a strange object displayed on the window of a shop. You go in and ask the shopkeeper about the object. Write a paragraph within sixty words on what you learn about this strange object using the following hints: The location of the shop-description of the object-conversation you had with the shopkeeper-your feelings.
+
+**Activity 10 (b)** Write a paragraph in about sixty words on two of your wishes that you want fulfilled.
+
+**Let’s work together:** Draw any three things that Gip saw in the magic shop. Write three sentences about any two of them.
+45 
+
+Here is the continued text from the document, starting with Lesson 5, excluding all images and photos.
+
+---
+
+### **PAGE 56**
+
+**Lesson 5**
+**Land of the Pharaohs**
+
+**Let’s start:**
+The Civilisation of Egypt flourished about five thousand years ago when the rule of the Pharaohs began. They made Egypt a rich and powerful nation, admired throughout the entire ancient world. They also ordered the construction of great temples and elaborate tombs for themselves. The Egyptians believed that all Pharaohs were god-kings. Ancient Egyptians used hieroglyphs—a picture writing—for inscriptions in the tombs and temples. Paper was made from thinly sliced papyrus stems.
+
+The following tale in pictures describes a child’s visit to Egypt.
+
+**Let's read:**
+*Cairo, Egypt.*
+**Ishan:** Finally, we are in Cairo!
+**Mother:** We are going to Giza, Ishan, to see the three great pyramids.
+**Ishan:** What’s a pyramid, Ma?
+**Mother:** A pyramid is a huge, triangular monument. The burial ground of the Pharaohs.
+**Ishan:** And who is a Pharaoh?
+**Mother:** A Pharaoh is an Egyptian king. The Pharaohs lived around five thousand years ago.
+**Ishan:** We are going to see so many interesting things. I wish Father had come with us.
+46
+
+---
+
+### **PAGE 57**
+
+**Mother:** The prize I won at the singing competition entitled only two for a sponsored tour of Egypt. Your father wanted you and me to come.
+**Ishan:** What’s that, Mother?
+**Mother:** That’s the Sphinx, Ishan. It’s a rock statue with a human head and a lion’s body.
+**Ishan:** The Sphinx represents intelligence and strength. It guards the pyramids.
+**Mother:** It’s going to be quite a long walk in the sun. Wait here. I’ll go and buy a couple of sandwiches and water from the shop.
+**Sphinx:** Ishan... Ishan...
+**Ishan:** Ma, the Sphinx is talking to me!
+**Sphinx:** Ishan’s mother was surprised at her son's knowledge.
+**Ishan:** Ishan, how do you know all this?
+**Ishan:** I don't know, Ma...
+47
+
+---
+
+### **PAGE 58**
+
+**Sphinx:** I am the Sphinx. I am the keeper of secrets.
+**Ishan:** I want to know about the past.
+**Sphinx:** Follow me. I will show you the history of Egypt.
+**Ishan:** Is this the Pharaoh Khufu's pyramid?
+**Sphinx:** Yes. It is the largest pyramid. Before burial, the bodies of royal persons had to go through mummification.
+**Ishan:** Mummification?
+**Sphinx:** Egyptian priests used spices, chemicals and oils to preserve the bodies of the dead. The preserved bodies are known as mummies.
+**Ishan:** Look! That’s Queen Nefertiti.
+**Sphinx:** She was perhaps the most beautiful queen of Egypt.
+**Ishan:** King Tutankhamun.
+**Sphinx:** He was a boy-king who died in his teens. His tomb was discovered by Howard Carter in 1922.
+48
+
+---
+
+### **PAGE 59**
+
+**Ishan:** I see you haven't moved from the spot since I left you.
+**Mother:** We are going to see the solar boat!
+**Ishan:** Ma, can’t we see the things we’ve just seen?
+**Mother:** Just seen? We’ve just arrived!
+**Ishan:** Oh! I see.
+**Mother:** Why, Ishan? What’s the matter? You look pale.
+**Ishan:** I enjoyed my visit to the past very much, Ma.
+**Mother:** Well, I’m glad you liked it.
+**Ishan:** I will never forget what I have seen today!
+
+**Word Nest:**
+
+* **flourished:** thrived
+* **hieroglyphs:** script consisting of pictures
+* **mummification:** preservation of dead bodies
+* **pale:** light-colored/white due to fear or sickness
+49
+
+---
+
+### **PAGE 60**
+
+**Let’s do:**
+**Activity 1**
+Tick [ the correct alternative:
+(a) Ishan and his mother visited (i) Giza (ii) Abu Simbel (iii) Alexandria to see the pyramids.
+(b) A pyramid is a huge (i) rectangular (ii) cylindrical (iii) triangular monument.
+(c) River (i) Nile (ii) Bhagirathi (iii) Volga flows through Egypt.
+(d) The boy-king of Egypt was (i) Khufu (ii) Cephren (iii) Tutankhamun.
+
+**Activity 2**
+Complete the following sentences with information from the text:
+(a) The Pharaohs lived __________
+(b) The Sphinx is a rock statue with __________
+(c) Ishan’s mother went to fetch __________
+(d) Howard Carter discovered __________
+
+**Activity 3**
+Answer the following question:
+Why do you think that at the end of the day Ishan tells his mother that he likes the history of Egypt?
+50
+
+---
+
+### **PAGE 61**
+
+**Activity 4**
+Fill in the chart with information from the text:
+(a) **Who:** __________ **What:** the largest pyramid
+(b) **Who:** __________ **What:** used spices, chemicals and oils to preserve dead bodies
+(c) **Who:** __________ **What:** the most beautiful queen
+(d) **Who:** __________ **What:** died in his teens
+
+**Activity 5**
+Answer the following questions in complete sentences:
+(a) Why was Ishan’s father unable to accompany him to Egypt?
+(b) What does the Sphinx represent?
+(c) Name the biggest pyramid of Egypt.
+(d) Why was Ishan’s mother surprised when she returned to her son?
+
+**Let’s learn:**
+Read the following sentences from the text:
+(1) I wish Father had come with us.
+(2) We are going to Giza.
+
+In sentence 1, the word 'Father' refers to a particular person. In sentence 2, the word 'Giza' is the name of a particular place. These are Proper Nouns. A Proper Noun always begins with a capital letter.
+51
+
+---
+
+### **PAGE 62**
+
+**Let’s do:**
+**Activity 6 (a)**
+Fill in the blanks with suitable articles:
+(i) The Nile flows through __________ Egypt.
+(ii) Iron is __________ useful metal.
+(iii) I waited at the station for __________ hour.
+(iv) She is __________ M.A.
+
+**Activity 6 (b)**
+Underline the Nouns in the following sentences and classify them:
+(i) The sugar is sweet.
+(ii) This is a book.
+(iii) Kindness is a virtue.
+(iv) A fleet of ships is in the harbor.
+
+**Activity 6 (c)**
+Fill in the blanks with appropriate Pronouns:
+(i) She is a girl. __________ is my sister.
+(ii) I have a dog. __________ is very faithful.
+(iii) They are my friends. I like __________ very much.
+(iv) We are students. __________ study in class VI.
+
+**Activity 7 (a)**
+Find the opposite of the following words from the text:
+(i) slowly
+(ii) disease
+(iii) finish
+(iv) remembered
+52
+
+---
+
+### **PAGE 63**
+
+**Activity 7 (b)**
+Make meaningful sentences of your own with the following words:
+
+* monument
+* mummy
+* civilization
+* spot
+
+**Let’s talk:**
+Discuss with your partner about the importance of history in our lives.
+
+**Let’s do:**
+**Activity 8 (a)**
+Suppose you visited a historical place recently. Write a paragraph in about sixty words on the place you visited. Use the following hints:
+Name of the place—how you went there—who accompanied you—the historical importance of the place—what you saw—your feelings.
+
+**Activity 8 (b)**
+Imagine you are Ishan. You have returned home with your mother from Egypt. Write a short paragraph in about sixty words about your experience in Egypt to your father.
+
+**Let’s work together:**
+Draw a picture of a pyramid. Show it to your friends and tell them two things you know about it.
+53
+
+---
+
+### **PAGE 64**
+
+**Lesson 6**
+**How The Little Kite Learned to Fly**
+-Katherine Pyle
+
+**Let’s start:**
+Katherine Pyle (1863-1938) was an American artist, poet and children's writer. Her first major success was in 1898 with The Counterpane Fairy. In the course of her career she wrote and illustrated over thirty books.
+
+**Let’s share:**
+
+1. What are the things that you see in the sky?
+2. Which of these things can fly?
+3. What gives them the power to fly?
+
+**Let’s read:**
+"I never can do it," the little kite said,
+As he looked at the others high over his head;
+"I know I should fall if I tried to fly."
+"Try," said the big kite; "only try!
+Or I fear you will never learn at all."
+But the little kite said, "I'm afraid I'll fall."
+
+The big kite nodded: "Ah well, goodbye;
+I'm off;" and he rose toward the tranquil sky.
+Then the little kite's paper stirred at the sight,
+And trembling he shook himself free for flight.
+First whirling and frightened, then braver grown,
+Up, up he rose through the air alone;
+Till the big kite looking down could see
+The little one rising steadily.
+54
+
+---
+
+### **PAGE 65**
+
+Then how the little kite thrilled with pride,
+As he sailed with the big kite side by side!
+While far below he could see the ground,
+And the boys like small spots moving round.
+They rested high in the quiet air,
+And only the birds and the clouds were there.
+"Oh, how happy I am!" the little kite cried,
+"And all because I was brave, and tried."
+
+**Word Nest:**
+
+* **tranquil:** peaceful
+* **stirred:** moved
+* **whirling:** moving round and round
+* **steadily:** in a stable manner
+* **thrilled:** became excited
+
+**Let’s do:**
+**Activity 1**
+Tick [ the correct alternative:
+(a) The little kite thought he could not (i) run (ii) fly (iii) swim.
+(b) The big kite told the little kite to (i) try (ii) know (iii) think.
+(c) While flying the little kite was filled with (i) pity (ii) pride (iii) pain.
+(d) The boys looked like small (i) dots (ii) patches (iii) spots.
+55
+
+---
+
+### **PAGE 66**
+
+**Activity 2**
+Complete the following sentences with information from the text:
+(a) The big kite rose towards the __________
+(b) The little kite's paper __________
+(c) The little kite sailed with __________
+(d) The little kite and the big kite rested __________
+
+**Activity 3**
+Answer the following question:
+What made the little kite's paper stir at the sight of the big kite's flight?
+
+**Activity 4**
+Fill in the chart with information from the text:
+(a) **Who:** __________ **What:** said "Try; only try!"
+(b) **Who:** The little kite **What:** __________
+(c) **Who:** __________ **What:** were there in the quiet air
+(d) **Who:** __________ **What:** looked like small spots
+
+**Activity 5**
+Answer the following questions in complete sentences:
+(a) What did the big kite fear?
+(b) Why did the little kite's paper stir?
+(c) How did the little kite prepare himself for flight?
+(d) Whom did the kites get for companions high up in the quiet air?
+56
+
+---
+
+### **PAGE 67**
+
+**Let’s learn:**
+Read the following sentences:
+(1) I **fear** you will never learn at all.
+(2) The little kite **rose** through the air.
+
+In sentence 1, the word 'fear' is a verb that denotes an action. In sentence 2, the word 'rose' is also a verb. These verbs tell us about the time of action. This is called the Tense of the verb.
+
+**Let’s do:**
+**Activity 6 (a)**
+Fill in the blanks with suitable articles:
+(i) He is __________ honest boy.
+(ii) I saw __________ bird flying in the sky.
+(iii) __________ Sun rises in the East.
+(iv) I have __________ umbrella.
+
+**Activity 6 (b)**
+Tick the correct form of the verbs:
+(i) The sun (shines/shone) yesterday.
+(ii) She (is/was) reading a book now.
+(iii) They (went/go) to school everyday.
+(iv) I (have/had) a pet dog.
+
+**Activity 7 (a)**
+Find words from the poem which are similar in meaning to the following:
+(i) quiet
+(ii) shaken
+(iii) moving round
+(iv) exciting
+57
+
+---
+
+### **PAGE 68**
+
+**Activity 7 (b)**
+Make meaningful sentences of your own with the following words:
+
+* tranquil
+* frightened
+* pride
+* brave
+
+**Let’s talk:**
+Tell the class about an experience when you tried to do something for the first time.
+
+**Let’s do:**
+**Activity 8 (a)**
+Write a paragraph in about sixty words on how you fly a kite. Use the following hints:
+The time of the day—the place—the things you need—how you fly—with whom you fly—your feelings.
+
+**Activity 8 (b)**
+Write a short paragraph in about sixty words on your experience of seeing the sky from a high-rise building.
+
+**Let’s work together:**
+Try to make a kite with the help of your teacher. Use colored papers, thin sticks, and glue.
+58
+
+---
+Here is the continued text from the document, starting from **Lesson 7**, excluding all images:
+
+---
+
+### **PAGE 76**
+
+**Lesson 7**
+**The Magic Fish Bone**
+-Charles Dickens
+
+**Let’s start:**
+Charles John Huffam Dickens (1812-1870) was a British writer whose notable works are *Oliver Twist*, *A Christmas Carol*, *A Tale of Two Cities*, *David Copperfield* etc.. During his lifetime and even in present times, his works have always enjoyed great popularity and he is generally regarded as the greatest novelist of the Victorian period. The present text is an adaptation from his popular short story *The Magic Fish Bone*.
+
+**Let’s share:**
+
+1. Study the given words: fly, walk, shirt, scales, swim, wand. Now put the words in the columns where they belong. Each column must have two words:
+
+
+
+* 
+**MAN** 
+
+
+* 
+**FISH** 
+
+
+* 
+**FAIRY** 
+
+
+
+---
+
+### **PAGE 77**
+
+2. Look at the pictures below and write their names against each of them: (i) (ii) (iii) (iv) (v). Now, circle the first letter of each word to make a new word. Write the new word in the box given alongside.
+
+
+
+---
+
+### **PAGE 78**
+
+**Let’s read:**
+There was once a King, and he had a Queen. They had several children. Alicia was the eldest, who looked after the other children. The King was, in his private profession, under the government. The Queen's father had been a medical man out of town.
+
+One day, the King was going to the office when he stopped at the fishmonger's shop. He needed to buy a pound and a half of salmon which the Queen had requested him to send home. He had not proceeded far after finishing his shopping, when the fishmonger's errand-boy came running after him.
+
+He said, "Sir, you didn't notice the old lady in our shop." "What old lady?" enquired the King. "I saw none." Now, the King had not seen any old lady because she had been invisible to him, though visible to the fishmonger's boy.
+
+**Word Nest:**
+
+* 
+**fishmonger**: a fish seller 
+
+
+* 
+**pound**: a unit for measuring weight 
+
+
+* 
+**proceeded**: moved forward 
+
+
+* 
+**errand-boy**: a boy who works under a shop-keeper 
+
+
+
+---
+
+### **PAGE 79**
+
+**Let’s do:**
+**Activity 1**
+Tick ( ) the correct alternative:
+
+* (a) Alicia looked after (i) the fishmonger (ii) her brothers and sisters (iii) the old lady 
+
+
+* (b) The queen's father had been a (i) medical man (ii) postman (iii) tailor 
+
+
+* (c) The king wanted to buy salmon weighing (i) a pound (ii) a pound and a half (iii) two pounds 
+
+
+* (d) The old lady had been visible to (i) the queen's father (ii) the king (iii) the fishmonger's boy 
+
+
+
+**Activity 2**
+Rearrange the following sentences in the correct order and put the numbers in the given boxes:
+
+* (1) The old lady had been invisible to the king. 
+
+
+* (2) He bought salmon. 
+
+
+* (3) The errand boy came running after him. 
+
+
+* (4) The king stopped at the fishmonger's shop. 
+
+
+* (5) The errand boy asked if the king had seen the old lady. 
+
+
+* (6) He left the shop. 
+
+
+
+**Activity 3**
+Answer the following question: "The king was, in his private profession, under the government." Is this king similar to the stories of other kings that you have read so far? 
+
+---
+
+### **PAGE 80**
+
+**Let’s continue:**
+Just then, the old lady came trotting up! She was dressed in shot-silk of the richest quality.
+"King Watkins the first, I believe?" "Watkins," replied the King, "is my name".
+"Papa of the beautiful princess Alicia?" The old lady asked.
+"Yes," King Watkins replied.
+"You are going to the office?" said the old lady.
+
+It instantly flashed upon the king that she must be a Fairy, or how could she know that? "You are right," said the old lady, answering his thoughts, "I am the Good Fairy Grandmarina. Listen. When you return home to dinner, invite the princess Alicia to have some of the salmon you bought just now. When the beautiful princess finishes eating, you will find she will leave a fish-bone on her plate. Tell her to dry it, and to rub it, and to polish it till it shines like mother-of-pearl. Ask her to take care of it as a present from me".
+
+"Is that all?" Asked the King.
+"Tell the princess Alicia, with my love, that the fish-bone is a magic present which can be used only once. It will bring her, only once, what she wishes for-provided she wishes for it at the right time. That is the message. Take care of it".
+
+---
+
+### **PAGE 81**
+
+With those words, Grandmarina vanished. The King went on and on, till he came to his office. There he wrote and wrote and wrote, till it was time to go home again. Then he invited the princess Alicia, as the fairy had directed him, to take the salmon. And when she had enjoyed it very much, he saw the fish-bone on her plate and delivered the Fairy's message. Princess Alicia took care to dry the bone, and to rub it, and to polish it till it shone like mother-of-pearl.
+
+**Word Nest:**
+
+* 
+**trotting**: walking speedily 
+
+
+* 
+**instantly**: immediately 
+
+
+* 
+**mother-of-pearl**: inner layer of a shell 
+
+
+
+**Activity 4**
+Complete the following sentences with information from the text:
+
+* (a) The old lady was dressed in 
+
+
+* (b) King Watkins was the father of 
+
+
+* (c) The fish bone was 
+
+
+* (d) Princess Alicia took care to 
+
+
+
+---
+
+### **PAGE 82**
+
+**Activity 5**
+Answer the following questions in complete sentences:
+
+* (a) Why did the king think that the old lady was a fairy? 
+
+
+* (b) What was the message given by Grandmarina? 
+
+
+* (c) When did Grandmarina vanish? 
+
+
+* (d) What did the king do in his office? 
+
+
+
+**Let’s continue:**
+Days went by. One morning, the King came into Alicia's room. He was sighing heavily, and seemed low-spirited. He sat down miserably, leaning his head upon his hand, and his elbow upon the kitchen table.
+
+Alicia asked, "What is the matter, Papa?" "I am extremely poor, my child," the King replied.
+"Have you no money at all, Papa?" Alicia enquired.
+"None, my child".
+"Is there no way left of getting any, Papa?" 
+"No way," said the King. "I have tried very hard, and I have tried all ways".
+
+When she heard those last words, the princess Alicia began to put her hand into the pocket where she kept the magic fish-bone. "Papa," said she, "when we have tried very hard, and tried all ways, we must have done our very best?" 
+
+---
+
+### **PAGE 83**
+
+"No doubt, Alicia".
+"When we have done our very best, Papa, and that is not enough, then I think the right time must have come for asking help of others". This was indeed the very secret connected with the magic fish-bone.
+
+So she took out from her pocket the magic fish-bone that had been dried and rubbed and polished till it shone like mother-of-pearl. She gave it a little kiss and wished it was salary day.
+
+And immediately the King's salary came rattling down the chimney, and bounced into the middle of the floor. Immediately afterwards, the good fairy Grandmarina came riding in, in a carriage drawn by four peacocks, dressed in silver and gold.
+
+"Alicia, my dear," said the charming old fairy, "How do you do?" The princess Alicia embraced her. Grandmarina turned to the King then. "I suppose you know the reason now why Alicia did not use the fish-bone sooner?" The King made her a shy bow.
+
+"It only remains," said Grandmarina in conclusion, "to make an end to the fish-bone". So she took it from the hand of the princess Alicia, and it was instantly grabbed by the little snapping pug-dog next door! 
+
+---
+
+### **PAGE 84**
+
+**Word Nest:**
+
+* 
+**miserably**: very unhappily 
+
+
+* 
+**rattling**: making a series of short loud sounds by hitting against something hard 
+
+
+* 
+**grabbed**: took hold of something suddenly and roughly 
+
+
+* 
+**snapping**: having a tendency to bite 
+
+
+
+**Activity 6**
+Write 'T' for true statements and 'F' for false statements in the given boxes. Give supporting statements for each of your answers:
+
+* (a) One morning Alicia found the king to be very happy. 
+
+
+* (b) Alicia had kept the magic fish bone in the drawer of her room. 
+
+
+* (c) The king's problem was solved by the magic fish bone. 
+
+
+* (d) In the end Alicia handed over the fish bone to the old fairy. 
+
+
+
+**Activity 7**
+Answer the following questions in complete sentences:
+
+* (a) Why was the king feeling miserable? 
+
+
+* (b) What was to Alicia the right moment for asking help from others? 
+
+
+* (c) How did the king get his salary? 
+
+
+* (d) Why did Grandmarina wish to make an end of the fish bone? 
+
+
+
+---
+
+### **PAGE 85**
+
+**Let’s Learn:**
+Read the following sentences:
+
+* They had several children.
+
+
+* He had not proceeded far after finishing his shopping.
+In both these sentences, ideas and facts are expressed in the form of statements.
+
+
+
+**Activity 8 (a)**
+Use the words to make sentences in the form of a statement:
+
+* (i) east, the, in, rises, sun, the 
+
+
+* (ii) meat, the, dog, eats The above sentences make statements or assertions. These kinds of sentences are called **Assertive sentences**.
+
+
+
+**Let’s learn:**
+Read the following sentences:
+
+* How do you do? 
+
+
+* Have you no money at all, papa? In both these sentences, ideas and facts are being expressed in the form of questions.
+
+
+
+**Activity 8 (b)**
+Use the words to make sentences in the form of a question:
+
+* (i) are, where, going, you 
+
+
+* (ii) this, not, book, is, your The above sentences ask questions. These kinds of sentences are called **Interrogative sentences**.
+
+
+
+---
+
+### **PAGE 86**
+
+**Activity 8 (c)**
+Identify which of the following sentences are Assertive and which are Interrogative:
+
+* (i) He spent many years of his life in a village.
+
+
+* (ii) Where do you live? 
+
+
+* (iii) Nobody was absent today.
+
+
+* (iv) Did you not hear the bell? 
+
+
+
+**Activity 9 (a)**
+Replace the underlined words with their antonyms:
+
+* (i) I helped a poor girl yesterday.
+
+
+* (ii) He came sooner than expected.
+
+
+* (iii) I saw a little plant by the roadside.
+
+
+* (iv) She read the conclusion of the novel.
+
+
+
+**Activity 9 (b)**
+Make meaningful sentences of your own with the following words: flashed, present, message, directed.
+
+**Let’s talk:**
+Why do you think the fairy was at first invisible to the king and later became visible? Discuss in groups.
+
+---
+
+### **PAGE 87**
+
+**Activity 10(a)**
+Read the following passage and fill in the chart with information from the passage:
+Salmon is a fish that lives along the coast. Salmon is born in fresh water and migrates to the ocean. A salmon returns to fresh water to lay eggs. After coming out from the egg, a baby salmon stays for six months to three years in fresh water. A salmon can make long journeys, sometimes moving hundreds of miles upstream against strong current.
+
+* (1) Name of the fish 
+
+
+* (2) Place where it is found 
+
+
+* (3) It migrates to 
+
+
+* (4) Where it lays eggs 
+
+
+* (5) Time spent in fresh water 
+
+
+* (6) Distance travelled by a salmon 
+
+
+
+**Acitivity 10 (b)**
+Imagine you met a fairy in your dreams. Write in about sixty words what gift you would have asked from her and why.
+
+---
+
+### **PAGE 88**
+
+**Lesson 8**
+**Goodbye to the Moon**
+-Monica Hughes
+
+**Let’s start:**
+Monica Hughes (1925-2003) was a Canadian author who is especially known for her books on science fiction. She also wrote adventure and historical novels. The text *Goodbye to the Moon* is an adaptation from one of her popular works of science fiction.
+
+**Let’s share:**
+
+1. Match the pictures with their names: boots, helmet, oxygen cylinder, space-suit.
+
+
+2. If you see a person wearing or using all of the items mentioned above, where would he be going? Discuss with your partner.
+
+
+
+---
+
+### **PAGE 89**
+
+**Let’s read:**
+I sat in the dark view-room of the space station. I looked out at the Earth. It was somewhat familiar to me. There was a small photograph of the blue planet in our drawing room.
+
+I, Kepler Masterman, was born on the Moon fifteen years back. My mother had been dead five years ago. She had told me stories about the Earth, that excitingly unknown place. My father is the Governor of the Moon. He was going on an expedition to the Earth. And here was I, accompanying him on my first ever journey to the Earth.
+
+I looked down at Earth. It seemed so close to me that I felt I could touch it. We had to wait for another fifteen minutes before our journey started. Feeling restless, I left the viewing room and glided down the long passage to the centre of the space station.
+
+I could see my father there surrounded by reporters. I came back to the view-room which was empty. I looked out into space. My Moon, my home appeared very small now. At home, the kids would be getting ready for the party. There's always been a party at sunrise. The Sun rose only 12 or 13 times a year so it was something special for us. The sunlight crept slowly across the surface of the Moon until finally night was gone.
+
+---
+
+### **PAGE 90**
+
+**Word Nest:**
+
+* 
+**view-room**: a room which has a glass panel so that one may look at the outside world 
+
+
+* 
+**space station**: a satellite stationed in space for scientific work 
+
+
+* 
+**glided**: moved away smoothly 
+
+
+
+**Activity 1**
+Rearrange the following sentences in the correct order and put the numbers in the given boxes:
+
+* (1) Kepler's home, the Moon, appeared very small from the view room.
+
+
+* (2) Kepler Masterman was born on the Moon.
+
+
+* (3) He was making his first-ever journey to the earth with his father.
+
+
+* (4) He had heard about planet Earth from his mother.
+
+
+* (5) The governor was surrounded by reporters at the centre of the space station.
+
+
+* (6) Kepler's father was the governor of the Moon.
+
+
+
+**Activity 2**
+Fill in the blanks with words from the Help Box. There is one extra word. Kepler had seen the **photographs** of the Earth. He was making an **expedition** to the Earth for the first time. Kepler felt **restless** as he had to wait for the journey to begin. The Moon **appeared** very small when he looked out into space.
+**Help Box**: expedition, appeared, restless, photographs, crept 
+
+---
+
+### **PAGE 91**
+
+**Activity 3**
+Answer the following question: Why did the moon appear small to Kepler from the space station? 
+
+**Let’s continue:**
+Suddenly the door opened behind me. I could hear excited voices. The ferry from Earth must have arrived. It carried passengers from the Earth ready to go for the Moon Safari, people eager to look around the Moon. And here we were, going to the Earth instead! I slipped out of the room to the central lobby.
+
+Father was standing there. There were the last minute good-byes.
+-"Good luck, Governor." Someone called out.
+-"See you in six months at the latest," replied my father, cheerfully.
+
+I walked with him to the Earth ferry. It was magnificent. It was three times as big as our Moon-ferries.
+-"Is everything on Earth as wonderful as this?" I whispered to Father.
+-"Pretty much so - it's different from home," Father replied.
+The ferry moved slowly out of its dock. It entered the Earth's gravity.
+
+---
+
+### **PAGE 92**
+
+I found my eyes were closing. It seemed only a few minutes before Father's voice woke me up. "Kepler! You mustn't miss this sight. We've just entered into the Earth's orbit. Look!" I looked out eagerly.
+
+I recognized the narrow stretch of Central America, then the majestic Atlantic beneath us.
+-"The planet's all water!" I gasped.
+-"Seventh-tenths of it are." Father agreed.
+
+A world that was seven-tenths water! On Moon, water was harder to get than oxygen. We had to pay for every ounce of it. Washing was a luxury and drinking a special delight. I had grown up thinking water was the most precious thing in the universe. Now I could see that the Earth was covered with it.
+
+We orbited across North Africa and Arabia. I could see the blueness of the Indian Ocean, then the Pacific.
+-"Are you feeling unwell?" Father asked. "Don't worry, it will get better. It's just the weight difference". I realized I weighed six times my normal weight. After a while, I lifted my head. Passengers were busy collecting belongings. We had landed. I struggled with my own safety straps. Father leaned over to help me.
+
+**Word Nest:**
+
+* 
+**ferry**: a vehicle that carries people 
+
+
+* 
+**dock**: a raised platform that provides access to ships and boats 
+
+
+* 
+**orbit**: the path followed by a planet or satellite 
+
+
+* 
+**ounce**: a small unit for measuring weight, equal to 28.35 grams 
+
+
+* 
+**strap**: belt 
+
+
+
+---
+
+### **PAGE 93**
+
+**Activity 4**
+Write 'T' for true and 'F' for false statements in the given boxes. Give supporting statements for each of your answers:
+
+* (a) The Earth ferry was three times as big as the Moon ferries 
+
+
+* (b) There is hardly any water on the earth 
+
+
+* (c) On Moon, oxygen is more easily available than water 
+
+
+* (d) Kepler weighed six times more than his usual weight 
+
+
+
+**Activity 5**
+Answer the following questions in complete sentences:
+
+* (a) Whose excited voices did Kepler hear? 
+
+
+* (b) Why was water precious on Moon? 
+
+
+* (c) Why was Kepler feeling unwell? 
+
+
+* (d) What led his father to help Kepler as they landed? 
+
+
+
+---
+
+### **PAGE 94**
+
+**Let’s continue:**
+Someone called out to my father, "Governor, the Press and TV are waiting for you".
+-"Oh sure, I'll come right away." I watched him leave down the aisle.
+
+Immediately I swung my legs down to the floor. I realized standing was tough and walking was very difficult. I practised, one foot and then the other, up and down the aisle, holding on to the seat backs for support. I put on my jacket and walked with difficulty to the exit point.
+
+I saw a crowd of reporters and camera men surrounding my father. It was really a new world. There was a storm of voices. How loudly the people of the Earth talked! 
+
+-"Governor, would you say the differences between Earth and Moon people can never be solved?" -"I am convinced that with a clear understanding of our problems, the differences can be settled in a friendly manner".
+-"Governor, how long do you think you will stay on Earth?" -"I guess that it may take as long as six months to a year to settle our differences".
+-"One last question, Governor. Now you are back on Earth again, will your tell our listeners which is really home to you, Earth or Moon?" 
+
+-"That's a difficult question to answer. All my cultural ties are with Earth. But I must say that it is the Moon where my present and future lie. My son was born there. My wife was buried there. My work is there. It is good to be back on Earth, but Moon is home!" 
+
+Father saw me standing among the reporters. He gave me his arm. We walked together on the landing pad. The sun was gently warm. I looked up. It was strange being outside without a space-suit. Earth will certainly be fun. I lay back and thought of the pyramids and the Taj Mahal and the mysterious jungle buildings of the Incas. Would six months be time enough to see it all? 
+
+---
+
+### **PAGE 95**
+
+**Word Nest:**
+
+* 
+**aisle**: passage between two rows of seats 
+
+
+* 
+**convinced**: made oneself believe that something is true 
+
+
+* 
+**mysterious**: strange 
+
+
+* 
+**Incas**: people from an ancient civilization in central America 
+
+
+
+**Activity 6**
+Fill in the following chart with information from the text:
+
+* (a) cause: **(The Press and TV were waiting for him)**; effect: the Governor went right away after he was called.
+
+
+* (b) cause: **(He realized walking was very difficult due to weight difference)**; effect: Kepler practised walking down the aisle.
+
+
+* (c) cause: All the cultural ties of the Governor were with the Earth; effect: **(It was good for him to be back on Earth)**.
+
+
+* (d) cause: **(He was on Earth where the atmosphere is breathable)**; effect: Kepler was not wearing a space-suit.
+
+
+
+**Activity 7**
+Answer the following questions in complete sentences:
+
+* (a) Who were waiting for the Governor of the Moon? 
+
+
+* (b) How, according to Kepler's father, could the difference between Earth and Moon people be resolved? 
+
+
+* (c) How is Kepler's father attached to the Moon? 
+
+
+* (d) Why did Kepler feel that earth would certainly be fun? 
+
+
+
+**Activity 8 (a)**
+Identify and fill in the following table correctly:
+
+* 
+**Sentences expressing advice/suggestion/order/comment/request**: called Imperative sentences.
+
+
+* 
+**Sentences expressing a wish**: called Optative sentences.
+
+
+* 
+**Sentences expressing a sense of surprise/strong feeling of happiness or sadness**: called Exclamatory sentences.
+
+
+Based on the document **Blossoms: English textbook for class VI**, here is the remaining text starting from Lesson 9, with all images excluded.
+
+---
+
+### **PAGE 89**
+
+**Lesson 9**
+**I Will Go With My Father A-ploughing**
+-Joseph Campbell 
+
+**Let's start:**
+Joseph John Campbell (1879-1944) was a famous Irish poet and lyricist. He was born in Belfast in an Irish family. His literary activities began with songs. In 1905 he moved to London. His famous poems include *At Harvest*, *On Waking*, *The Blind Man at the Fair*, *The Old Woman* etc.
+
+**Let's share:**
+
+1. Match column A with column B:
+| A | B |
+| :--- | :--- |
+| (i) blacksmith | flies aeroplanes |
+| (ii) hawker | works with iron |
+| (iii) nurse | sells wares |
+| (iv) pilot | looks after sick people | 
+
+
+2. Suppose you have accompanied your father/mother/guardian to his/her workplace. Tell the class what you have seen and whether you liked the place.
+90
+
+
+
+---
+
+(Note: Pages 101 through 121 primarily contain the remaining lessons: **Smart Ice Cream**, **The Blind Boy**, and **Rip Van Winkle**, followed by the **Teachers' Guidelines** and **My Page** ).
+
+---
+
+### **PAGE 122**
+
+**Teachers' Guidelines** 
+(Summary of instructions for the teacher regarding Lesson implementation, activity-based learning, and evaluation) .
+
+---
+
+### **PAGE 126**
+
+**My Page** 
+(Space provided for student notes or creative expression) .
