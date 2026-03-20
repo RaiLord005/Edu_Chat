@@ -50,6 +50,10 @@ EDU_CHAT is an intelligent, context-aware educational chatbot designed to help s
 ---
 
 ##  Installation & Setup
+.env content:
+SCALEDOWN_API_KEY=API KEY
+GEMINI_API_KEY=API KEY
+DATABASE_URL=mysql+pymysql://USER:PASSWORD:PORT/DATABASE_NAME
 
 ### 1. Prerequisites
 * Python 3.8+
